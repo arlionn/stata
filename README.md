@@ -6,7 +6,9 @@
 ----
 ### 基本链接
 
-- [连玉君岭院主页](http://www.lingnan.net/intranet/teachinfo/dispuser.asp?name=lianyj)  [连玉君Stata博客](http://sina.lt/fbVn)  [连玉君知乎Stata专栏](https://zhuanlan.zhihu.com/arlion)
+- [连玉君岭院主页](http://www.lingnan.net/intranet/teachinfo/dispuser.asp?name=lianyj)  
+- [连玉君Stata博客](http://sina.lt/fbVn)   
+- [连玉君知乎Stata专栏](https://zhuanlan.zhihu.com/arlion)
 
 ---
 ### Stata培训
