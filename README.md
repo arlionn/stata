@@ -1,85 +1,131 @@
-## 连玉君的链接
+> 微信推文说明：自己制作一个符合国内期刊风格的模板，然后发布命令，并在 github 中发布代码，供大家下载使用。
 
-> 缩写: ST3: Sublime Text 3
+## 私人定制！ 用 `brewsheme` 定制我的 stata 绘图模板
 
 
-----
-### 基本链接
+[toc]
 
-- [连玉君岭院主页](http://www.lingnan.net/intranet/teachinfo/dispuser.asp?name=lianyj)  
-- [连玉君Stata博客](http://sina.lt/fbVn)   
-- [连玉君知乎Stata专栏](https://zhuanlan.zhihu.com/arlion)
 
----
-### Stata培训
-
-- Stata 视频：[在线 Stata 课程](http://www.peixun.net/author/3.html) | [优酷Stata公开课](http://i.youku.com/arlion)
-
-- 现场培训: [Stata初级班](http://www.peixun.net/view/307_detail.html) |  [Stata高级班](http://www.peixun.net/view/308_detail.html)
-
+![](http://y0.ifengimg.com/news_spider/dci_2012/03/4697e06983ec9e5f83fd63756cceae33.jpg)
+&emsp; &emsp; 私人定制的迫击炮
 
 ---
-### 已发表博客文章
 
-- [高考那年，擦肩而过的军校](http://blog.leanote.com/post/arlionn@163.com/9f7640965e46)
-- [Stata连享会——论文那点事：性感的题目](https://mp.weixin.qq.com/s?__biz=MzAwMzk4ODUzOQ==&mid=2247483668&idx=1&sn=5276b9ededdaaf39ba3127849bcc13a8&chksm=9b338c40ac440556d30257a97564a20be878a725c7a9874ad3cb2e458a93e739ed88bdb30bbe##)
+### 1. 简明效果对比
 
-- [教师利器：ZoomIt 4.5 屏幕缩放小软件 ](http://blog.leanote.com/post/arlionn@163.com/caea315156dd)
+![](http://wbuchanan.github.io/brewscheme/img/brewscheme_onecolorex2.png)
 
----
-### Markdown 相关
+![](http://wbuchanan.github.io/brewscheme/img/brewscheme_manycolorex1.png)
 
-- 编辑器：[ST3 中文网](http://www.sublimetextcn.com/3/) | [Stata-ST3](https://github.com/mattiasnordin/StataEditor) | [typora](https://typora.io/) | [Madoko](https://www.madoko.net/)
-- HTML &rarr; Markdown :  [to-Markdown](https://github.com/domchristie/to-Markdown )  |  [BeJSON](http://www.bejson.com/convert/html2markdown/)  | [aTool](http://www.atool.org/html2markdown.php) 
-- 蚂蚁: [Leanote 教程集 Leanote manuals ](http://leanote.leanote.com/post/Leanote-manual-project)
-- MD Math: [leanote 记数学公式](http://xiang.leanote.com/post/introduction-to-mathjax-and-latex-expression)
+> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
+
 
 ---
-### Stata & Papers
+> #### 对比1：散点图
 
-- [百度学术](http://xueshu.baidu.com/) | [Google学术](https://scholar.glgoo.org/) | [Sci-hub](http://www.sci-hub.cc/)
 
-- Stata Data_Codes:  [Harvard dataverse][harvd] | [JFE][jfe] | [Angrist][Ang1] | [Daron Acemoglu][acem]| [github][git1] | [Yahoo-github][yahoogit]
+```stata
+*- Load the auto data set
+sysuse auto, clear
 
-[harvd]:https://dataverse.harvard.edu/dataverse
+*- Create a new scheme file for all graph types
+brewscheme, scheme(test) allstyle(dark2) allcolor(7)
 
-[jfe]:http://jfe.rochester.edu/data.htm
+*- Make a simple graph using Stata defaults
+tw scatter mpg length || lfit mpg length, name(stata, replace)
 
-[Ang1]:http://economics.mit.edu/faculty/angrist/data1/data
+*- Make the same graph using the scheme file you just created
+tw scatter mpg length || lfit mpg length, scheme(test) name(brewscheme, replace)
+```
+![](https://www.statalist.org/forums/filedata/fetch?id=1304036&d=1438109219&type=full "Stata 官方命令效果")
 
-[acem]:http://economics.mit.edu/faculty/acemoglu/data
+![](https://www.statalist.org/forums/filedata/fetch?id=1304037&d=1438109231&type=full "brewscheme 效果")
 
-[git1]:https://github.com/search?utf8=%E2%9C%93&q=stata&type=
-
-[yahoogit]:https://search.yahoo.com/search;_ylt=AwrBT8di2LBZqyEAuG9XNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGZyA3lmcC10LTQ3MwRncHJpZAMEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA3NlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzE0BHF1ZXJ5A3N0YXRhJTIwZ2l0aHViBHRfc3RtcAMxNTA0NzYxODcz?p=stata+github&fr2=sb-top&fr=yfp-t-473&fp=1
-
----
-### github 
-
-- My git:  [github.com/arlionn](github.com/arlionn) | [码云arlionn](http://git.oschina.net/arlionn)
-- [git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) | [github简明命令列表](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) 
-- [git 官网](https://github.com) | [git Blog](https://github.com/blog) | [Pro Git 官方中文](https://git-scm.com/book/zh/v2/)
-- 个人博客：[廖雪峰的博客](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 
 
 ---
-### 软件和工具
+> #### 对比2：箱型图
 
-- [小众软件](http://www.appinn.com/)
-- 短域名-云盘： [百度短网址](http://dwz.cn/) | [新浪短网址](http://dwz.wailian.work/) | [SOSO云盘](http://www.sosoyunpan.com/)
-- 屏幕缩放：[ZoomIt 4.5](http://blog.leanote.com/post/arlionn@163.com/caea315156dd) or [mygithub](https://github.com/arlionn/software/blob/master/README.md)  
-- 动画GIF制作：[ScreenToGif](http://www.oschina.net/p/screentogif) |  [录制屏幕成 Gif 软件](https://www.zhihu.com/question/47403612?sort=created)
-- 文件管理：[Q-Dir](http://www.softwareok.com/?Download=Q-Dir&goto=../Download/Q-Dir_Installer.zip) | [Everything](https://pan.baidu.com/s/1i5QmlAd)
+```stata
+*-Create a new scheme file with different palettes
+* and #s of color per palette for different graph types
+brewscheme, barst(paired) barc(12) dotstyle(prgn)  ///
+            dotc(7) scatstyle(set1) scatc(9)       ///   
+            linest(dark2) linec(8) somec(8)        ///
+            somestyle(accent) areast(dark2)        ///   
+            areac(8) scheme(test2)
 
-- 微信平台：[Stata连享会](https://mp.weixin.qq.com/advanced/selfmenu?action=index&t=advanced/menu-setting&token=971642850&lang=zh_CN) | [在线 aTool 微信编辑器](http://wx.atool.org/#) | [md-barretlee](http://md.barretlee.com/)
+*- Make a simple graph using Stata defaults
+gr box price, over(rep78) name(stata, replace) 
 
-- PDF: [PDF解密](https://www.pdfcrack.com/)
+*- Make the same graph using 
+*  the scheme file you just created
+gr box price, over(rep78) asyvars  ///
+   scheme(test2) name(brewscheme, replace)
+```
+
+![](https://www.statalist.org/forums/filedata/fetch?id=1304038&d=1438110150&type=full "Stata 官方命令效果")
+
+![](https://www.statalist.org/forums/filedata/fetch?id=1304039&d=1438110167&type=full "brewscheme 效果")
+
+
 
 ---
-### 公务
 
-- [公务机票](www.gpticket.org) | [本科教务](http://ecampus.sysu.edu.cn/jwglxt/) | [研究生教务](http://ecampus.sysu.edu.cn/portal/)
+### 2. 说明文档
+> [statalist post][2]，[brewscheme][2a] 以及 [PDF介绍][3]
 
 ---
-### 扫码关注`Stata连享会`微信公众号
+### 3. 安装
 
-![Stata连享会二维码](http://wx1.sinaimg.cn/mw690/8abf9554gy1fj9p14l9lkj20m30d50u3.jpg "扫码关注 Stata 连享会")
+>```
+>install brewscheme, replace
+>```
+或
+>```
+>net inst brewscheme, from("http://www.paces-consulting.org/stata")
+>```
+
+
+---
+### 4. 在线帮助和范例
+
+- [brewscheme](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
+
+- [brewtheme](http://wbuchanan.github.io/brewscheme/help/brewtheme/)
+
+- [brewcbsim](http://wbuchanan.github.io/brewscheme/help/brewcbsim/)
+
+- [brewcolordb](http://wbuchanan.github.io/brewscheme/help/brewcolordb/)
+
+- [brewcolors](http://wbuchanan.github.io/brewscheme/help/brewcolors/)
+
+- [brewextra](http://wbuchanan.github.io/brewscheme/help/brewextra/)
+
+- [brewmeta](http://wbuchanan.github.io/brewscheme/help/brewmeta/)
+
+- [brewproof](http://wbuchanan.github.io/brewscheme/help/brewproof/)
+
+- [brewsearch](http://wbuchanan.github.io/brewscheme/help/brewsearch/)
+
+- [brewterpolate](http://wbuchanan.github.io/brewscheme/help/brewterpolate/)
+
+- [brewviewer](http://wbuchanan.github.io/brewscheme/help/brewviewer/)
+
+- [libbrewscheme](http://wbuchanan.github.io/brewscheme/help/libbrewscheme/)
+
+- [filesys](http://wbuchanan.github.io/brewscheme/help/filesys/)
+
+- [hextorgb](http://wbuchanan.github.io/brewscheme/help/hextorgb/)
+
+
+[2]:https://www.statalist.org/forums/forum/general-stata-discussion/general/1304035-new-package-on-ssc-brewscheme "new package on SSC: brewscheme"
+[2a]:http://www.paces-consulting.org/blog/brewscheme-1-0/
+[3]:http://www.stata.com/meeting/columbus15/abstracts/materials/columbus15_buchanan.pdf
+
+
+
+---
+ ![Stata连享会二维码](http://wx1.sinaimg.cn/mw690/8abf9554gy1fj9p14l9lkj20m30d50u3.jpg "扫码关注 Stata 连享会")
+
+
+
