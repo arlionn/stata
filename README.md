@@ -44,6 +44,7 @@ tw scatter mpg length || lfit mpg length, scheme(test) name(brewscheme, replace)
 
 ![](https://www.statalist.org/forums/filedata/fetch?id=1304037&d=1438109231&type=full "brewscheme 效果")
 
+> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
 
 ---
 > #### 对比2：箱型图
@@ -70,7 +71,7 @@ gr box price, over(rep78) asyvars  ///
 
 ![](https://www.statalist.org/forums/filedata/fetch?id=1304039&d=1438110167&type=full "brewscheme 效果")
 
-
+> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
 
 ---
 
@@ -126,6 +127,7 @@ gr box price, over(rep78) asyvars  ///
 [3]:http://www.stata.com/meeting/columbus15/abstracts/materials/columbus15_buchanan.pdf
 
 
+> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
 
 ---
  ![Stata连享会二维码](http://wx1.sinaimg.cn/mw690/8abf9554gy1fj9p14l9lkj20m30d50u3.jpg "扫码关注 Stata 连享会")
