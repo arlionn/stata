@@ -1,5 +1,7 @@
 > 微信推文说明：自己制作一个符合国内期刊风格的模板，然后发布命令，并在 github 中发布代码，供大家下载使用。
 
+Note: `brewsheme` command is developed by Prof. [Wbuchanan](https://github.com/wbuchanan). We use `brewsheme` just for teaching. 
+
 ## 私人定制！ 用 `brewsheme` 定制我的 stata 绘图模板
 
 
