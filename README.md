@@ -11,8 +11,7 @@
 ![山西2018培训2-small.jpg](https://upload-images.jianshu.io/upload_images/7692714-bae6d35988466e0a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-[toc]
-
+---
 ## 1. 课程概况
 
 
@@ -27,7 +26,7 @@
   - 江艇副教授 （中国人民大学）
   - 连玉君副教授 （中山大学）
 
-
+---
 ## 2. 嘉宾简介
 
 ### 林建浩
