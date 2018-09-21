@@ -10,6 +10,7 @@
 
 ![山西2018培训2-small.jpg](https://upload-images.jianshu.io/upload_images/7692714-bae6d35988466e0a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+> [-点击下载 PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/Stata_2018_Train.pdf)
 
 ---
 ## 1. 课程概况
@@ -160,6 +161,8 @@
 长按/扫描二维码报名：       
 ![](https://upload-images.jianshu.io/upload_images/7692714-aeb69d03bdc9ae61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
+> [-点击下载 PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/Stata_2018_Train.pdf)
 
 ------
 >免费听课了！诚邀 Stata 培训课程助教
