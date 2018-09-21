@@ -3,6 +3,8 @@
 ## Stata连享会2018.11现场培训-内生性专题
 ---
 
+> [-点击下载 PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/Stata_2018_Train.pdf)
+
 > 高品质 Stata 现场课程来啦！   
 > 由中山大学连玉君老师、林建浩老师，中国人民大学江艇老师    
 > 与大家分享稳健型IV估计、空间面板、倍分法(DID)、匹配方法,     
@@ -10,7 +12,6 @@
 
 ![山西2018培训2-small.jpg](https://upload-images.jianshu.io/upload_images/7692714-bae6d35988466e0a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-> [-点击下载 PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/Stata_2018_Train.pdf)
 
 ---
 ## 1. 课程概况
