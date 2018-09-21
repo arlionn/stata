@@ -1,9 +1,11 @@
 
 > 高品质 Stata 现场课程来啦！
 > 由中山大学连玉君老师、林建浩老师，中国人民大学江艇老师与大家分享稳健型IV估计、空间面板、倍分法(DID)、匹配方法, PSM+Matching、断点回归(RDD)、合成控制法的精髓和 Stata 实现。
-![Stata连享会现场培训](https://img-blog.csdn.net/20180921115700217?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FybGlvbm4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![山西2018培训2-small.jpg](https://upload-images.jianshu.io/upload_images/7692714-bae6d35988466e0a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-@[toc]
+
+[toc]
+
 ## 1. 课程概况
 
 
@@ -149,8 +151,9 @@
   - 公众号： 可搜索公众号名称（君泉Stata）或扫描二维码关注公众号了解详情
 - 温馨提示： 按预报名顺序排座位
 
-长按/扫描二维码报名：
-![扫码报名](https://img-blog.csdn.net/20180921142807482?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FybGlvbm4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+长按/扫描二维码报名：       
+![](https://upload-images.jianshu.io/upload_images/7692714-aeb69d03bdc9ae61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ------
 >免费听课了！诚邀 Stata 培训课程助教
