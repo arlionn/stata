@@ -1,136 +1,168 @@
-> 微信推文说明：自己制作一个符合国内期刊风格的模板，然后发布命令，并在 github 中发布代码，供大家下载使用。
 
-Note: `brewsheme` command is developed by Prof. [Wbuchanan](https://github.com/wbuchanan). We use `brewsheme` just for teaching. 
+> 高品质 Stata 现场课程来啦！
+> 由中山大学连玉君老师、林建浩老师，中国人民大学江艇老师与大家分享稳健型IV估计、空间面板、倍分法(DID)、匹配方法, PSM+Matching、断点回归(RDD)、合成控制法的精髓和 Stata 实现。
+![Stata连享会现场培训](https://img-blog.csdn.net/20180921115700217?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FybGlvbm4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-## 私人定制！ 用 `brewsheme` 定制我的 stata 绘图模板
-
-
-[toc]
-
-
-![](http://y0.ifengimg.com/news_spider/dci_2012/03/4697e06983ec9e5f83fd63756cceae33.jpg)
-&emsp; &emsp; 
-私人定制的迫击炮
-
----
-
-### 1. 简明效果对比
-
-![](http://wbuchanan.github.io/brewscheme/img/brewscheme_onecolorex2.png)
-
-![](http://wbuchanan.github.io/brewscheme/img/brewscheme_manycolorex1.png)
-
-> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
+@[toc]
+## 1. 课程概况
 
 
----
-> #### 对比1：散点图
+- **时间：** 2018年11.23-25（周五-周日）（每天 6 小时+半小时答疑）；
+- **地点：** 山西财经大学（太原）
+- **授课内容：** 实证研究方法与 Stata 应用
+  - 要点：研究设计和内生性问题的处理。
+  - 主要方法：IV估计、空间计量、匹配(Matching)、倍分法(DID)、Matching+DID、断点回归(RDD)、合成控制法(SCM)
+
+- **授课嘉宾：** 
+  - 林建浩副教授（中山大学）
+  - 江艇副教授 （中国人民大学）
+  - 连玉君副教授 （中山大学）
 
 
-```stata
-*- Load the auto data set
-sysuse auto, clear
+## 2. 嘉宾简介
 
-*- Create a new scheme file for all graph types
-brewscheme, scheme(test) allstyle(dark2) allcolor(7)
-
-*- Make a simple graph using Stata defaults
-tw scatter mpg length || lfit mpg length, name(stata, replace)
-
-*- Make the same graph using the scheme file you just created
-tw scatter mpg length || lfit mpg length, scheme(test) name(brewscheme, replace)
-```
-![](https://www.statalist.org/forums/filedata/fetch?id=1304036&d=1438109219&type=full "Stata 官方命令效果")
-
-![](https://www.statalist.org/forums/filedata/fetch?id=1304037&d=1438109231&type=full "brewscheme 效果")
-
-> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
+### 林建浩
+![林建浩](https://upload-images.jianshu.io/upload_images/7692714-05cefd83d75ed2b4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+**[林建浩](http://lingnan.sysu.edu.cn/node/160)**，中山大学岭南学院经济学系副教授，主要研究领域为计量经济学理论与应用、实证宏观、文化与经济行为。在《经济研究》、《管理世界》、《统计研究》、《金融研究》、《经济学（季刊）》等学术刊物上发表多篇论文，主持国际自然科学基金、广东省自然科学基金等多项课题。
 
 ---
-> #### 对比2：箱型图
+### 江艇
+![江艇](https://upload-images.jianshu.io/upload_images/7692714-97356ba490e22161.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+**江艇**，香港科技大学商学院经济学博士，中国人民大学经济学院副教授，人大国家发展与战略研究院研究员，人大微观数据与实证方法研究中心副主任，美国哥伦比亚大学商学院访问学者。主要研究领域为经济增长与发展、城市经济学、新政治经济学，在*Economics Letters*、*Review of Development Economics*、《经济研究》、《管理世界》、《世界经济》等国内外著名学术刊物上发表多篇论文，曾应邀在多所高校讲授“应用微观计量经济学”短期前沿课程并广受好评。 
 
-```stata
-*-Create a new scheme file with different palettes
-* and #s of color per palette for different graph types
-brewscheme, barst(paired) barc(12) dotstyle(prgn)  ///
-            dotc(7) scatstyle(set1) scatc(9)       ///   
-            linest(dark2) linec(8) somec(8)        ///
-            somestyle(accent) areast(dark2)        ///   
-            areac(8) scheme(test2)
-
-*- Make a simple graph using Stata defaults
-gr box price, over(rep78) name(stata, replace) 
-
-*- Make the same graph using 
-*  the scheme file you just created
-gr box price, over(rep78) asyvars  ///
-   scheme(test2) name(brewscheme, replace)
-```
-
-![](https://www.statalist.org/forums/filedata/fetch?id=1304038&d=1438110150&type=full "Stata 官方命令效果")
-
-![](https://www.statalist.org/forums/filedata/fetch?id=1304039&d=1438110167&type=full "brewscheme 效果")
-
-> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
-
----
-
-### 2. 说明文档
-> [statalist post][2]，[brewscheme][2a] 以及 [PDF介绍][3]
-
----
-### 3. 安装
-
->```
->install brewscheme, replace
->```
-或
->```
->net inst brewscheme, from("http://www.paces-consulting.org/stata")
->```
 
 
 ---
-### 4. 在线帮助和范例
-
-- [brewscheme](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
-
-- [brewtheme](http://wbuchanan.github.io/brewscheme/help/brewtheme/)
-
-- [brewcbsim](http://wbuchanan.github.io/brewscheme/help/brewcbsim/)
-
-- [brewcolordb](http://wbuchanan.github.io/brewscheme/help/brewcolordb/)
-
-- [brewcolors](http://wbuchanan.github.io/brewscheme/help/brewcolors/)
-
-- [brewextra](http://wbuchanan.github.io/brewscheme/help/brewextra/)
-
-- [brewmeta](http://wbuchanan.github.io/brewscheme/help/brewmeta/)
-
-- [brewproof](http://wbuchanan.github.io/brewscheme/help/brewproof/)
-
-- [brewsearch](http://wbuchanan.github.io/brewscheme/help/brewsearch/)
-
-- [brewterpolate](http://wbuchanan.github.io/brewscheme/help/brewterpolate/)
-
-- [brewviewer](http://wbuchanan.github.io/brewscheme/help/brewviewer/)
-
-- [libbrewscheme](http://wbuchanan.github.io/brewscheme/help/libbrewscheme/)
-
-- [filesys](http://wbuchanan.github.io/brewscheme/help/filesys/)
-
-- [hextorgb](http://wbuchanan.github.io/brewscheme/help/hextorgb/)
-
-
-[2]:https://www.statalist.org/forums/forum/general-stata-discussion/general/1304035-new-package-on-ssc-brewscheme "new package on SSC: brewscheme"
-[2a]:http://www.paces-consulting.org/blog/brewscheme-1-0/
-[3]:http://www.stata.com/meeting/columbus15/abstracts/materials/columbus15_buchanan.pdf
-
-
-> [Sourece: wbuchanan.github.io](http://wbuchanan.github.io/brewscheme/help/brewscheme/)
+### 连玉君
+![连玉君](https://upload-images.jianshu.io/upload_images/7692714-22cda599d9d18579.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+**[连玉君](http://lingnan.sysu.edu.cn/node/151)**，经济学博士，副教授，博士生导师。2007年7月毕业于西安交通大学金禾经济研究中心，现任教于中山大学岭南学院金融系。主讲课程为“金融计量”、“计量分析与Stata应用”、“实证金融”等。已在《China Economic Review》、《经济研究》、《管理世界》、《经济学(季刊)》、《金融研究》、《统计研究》等期刊发表论文60余篇。连玉君副教授主持国家自然科学基金项目（2项）、教育部人文社科基金项目、广东自然科学基金项目等课题项目10余项。目前已完成 Panel VAR、Panel Threshold、Two-tier Stochastic Frontier 等计量模型的 Stata 实现程序，并编写过几十个小程序，如 `xtbalance`, `winsor2`, `bdiff`, `hausmanxt`, `ttable3`, `hhi5`, `ua`等。连玉君老师团队一直积极分享Stata应用中的点点滴滴，开设了 [[Stata连享会-简书]](https://www.jianshu.com/u/69a30474ef33)，[[Stata连享会-知乎]](https://www.zhihu.com/people/arlionn) 两个专栏，并定期在微信公众号 (**StataChina**) 中发布精彩推文。
 
 ---
- ![Stata连享会二维码](http://wx1.sinaimg.cn/mw690/8abf9554gy1fj9p14l9lkj20m30d50u3.jpg "扫码关注 Stata 连享会")
+## 3. 授课内容
+### 3.1 课程大纲
+#### 第一天 (林建浩)
+- 近似外生和弱工具变量下的稳健推断方法
+- 面板数据空间计量模型
+
+#### 第二天 (江艇)
+- 匹配 (Matching)
+- 倍分法 (DID)
+- Matching + DID
+
+#### 第三天 (连玉君)
+- 断点回归分析 (RDD)
+- 合成控制法 (SCM)
+
+---
+### 3.2 课程详情
+
+> ####  第1讲  近似外生和弱工具变量下的稳健推断方法 
+
+- **应用场景：** 弱工具变量和工具变量非严格外生时还能用 IV 估计吗？
+- **应对方法：** 采用再抽样（resampling，Berkowitz et al., 2012）或贝叶斯的方法校正近似外生性的影响（Conley et al., 2012；Kraay, 2012）。
+- **专题详情：**
+  - 工具变量（IV）估计是处理内生性问题的基本方法，在经济学实证研究中有着极为广泛的应用。   
+  - IV 估计量的大样本性质是在建立一系列假定之上，尤其是工具变量与内生解释变量的“相关性”以及工具变量的“外生性”，而且工具变量的“质量”也影响了IV估计量在有限样本下的表现。然而，在实际研究中，寻找同时满足相关性和外生性的工具变量非常困难，需要在经济机理上进行具有说服力的论证，同时进行严格的模型设定检验。越来越多的计量经济学家开始放松传统 IV 估计的模型设定，讨论“弱工具变量（weak instruments）”以及“近似外生工具变量（plausibly /approximately/ exogenous）”下的稳健推断方法。    
+  - 针对工具变量外生性条件无法严格满足的情形，目前较有影响的做法是采用再抽样（resampling，Berkowitz et al., 2012）或贝叶斯的方法校正近似外生性的影响（Conley et al., 2012；Kraay, 2012）。     
+  - 这些新的理论研究成果直面实践难题，大大拓展了 IV 估计的应用场景，但尚未在实证研究中得到广泛应用。我们将结合实际例子，对这些方法的原理、适用条件以及软件实现进行介绍。
+
+> ####  第2讲 空间面板模型 
+- **专题详情：**
+  - 近十年，空间计量经济学的发展主要集中在两个领域：一个是离散选择和受限数据的空间计量模型，另一个是面板数据的空间计量模型。
+  - 我们此次主要介绍后者，Anselin、Baltagi、Kapoor 以及李龙飞教授的团队在这个领域有着诸多理论贡献，这些模型方法也已广泛应用于国际贸易、区域经济、公共经济、劳动经济等诸多经济学科。
+  - Stata 15 有了相对完整的空间计量经济学模块，加上 Paul Elhorst 等学者编写的非官方命令，使得基于 Stata 进行面板空间计量的应用研究更为方便。
+  - 我们将结合实例，介绍基本的面板数据空间计量模型的估计和检验方法，做到原理介绍和软件实现并重。
+
+> ####  第3讲 匹配 (Matching) 
+
+- **澄清一些关于匹配方法常见的理解误区**。
+  - 匹配能否比OLS更好地解决内生性问题？
+  - 如果匹配和OLS的识别力 (identification power) 相当，OLS的偏误究竟从何而来？
+  - 为什么说匹配的思想比匹配的具体实现手段更为重要？ 
+- 通过两个简化例子，**抽丝剥茧地分析匹配方法的工作原理**，消除初学者对非参数方法的恐惧。
+- **详细讲解匹配方法的整套实操流程**。
+  - 匹配的准备工作：如何选择协变量；如何评估overlap；如何估计倾向得分；如何删截样本。
+  - 从匹配对象、匹配精度、加权方式、是否放回各个方面介绍主要匹配方法的异同。
+  - 结合四个Stata命令`teffects nnmatch`, `nnmatch`, `teffects psmatch`, `psmatch2`，重点介绍基于协变量的最近邻匹配 (NNM) 和倾向得分匹配 (PSM) 。
+
+> ####  第4讲 倍分法 (DID) 
+
+- 随着越来越多面板数据为研究者所利用，DID也成为中文世界使用频率最高的准实验方法，由于对这一方法的识别假设和适用范围理解不准确，不同程度的滥用也随之出现。本讲旨在帮助学员回答三个问题。
+- **如何正确理解DID的工作原理？**
+  - 基本的DID如何实现？讨论重复横截面、两期面板、多期面板等不同情况。
+  - 如何解释和展示结果？
+  - 对DID的威胁有哪些？
+- **DID的拓展形式有哪些？**
+  - 非线性模型中的DID
+  - 模糊 (fuzzy) DID
+  - 半参数DID (若时间允许)
+  - 非线性DID (若时间允许)
+  - 特别重点介绍DID和匹配的结合
+    - 先通过匹配方法构造控制组，然后进行DID估计
+    - 先差分，然后对差分结果进行匹配估计
+- **如何让一项DID研究变得更丰满？**
+  - 如何进行敏感性分析？
+  - 如何进行异质性分析？
+  - 通过多个案例，辨别何为好的DID研究，何为坏的DID研究。
+
+> ####  第5讲 断点回归分析 (RDD) 
+
+- **何时使用断点回归分析？** 
+  - RDD 是目前公认的 **最为干净** 的政策评价方法之一。以 **「上北大是否有助于提高收入？」** 这一问题为例。
+  - **传统处理方法**：在收入方程中控制其他影响收入的因素后，重点考察 **D=1 (北大学生)；D=0 (其他学生)** 这一虚拟变量的系数。然而，这一做法难逃自我选择偏误的影响。因为，是否上北大并非随机选择的结果，很可能是能力强的孩子更容易上北大，而能力强的孩子也更容易找到高收入的工作 (即使不上北大也是如此)。因此，即使发现北大学生毕业时的年薪比其他学生高 5 万，也不能将其全部归因为北大教育带来的效果。比如，5=3+2，意味着北大教育的收入效应是 3 万，而个人能力的收入效应是 2 万。当然，也有可能是 5  = 1+4，甚至是 5 = -2+7。难点在于，个人能力是不可观测的。
+  - **RDD：** 假如上北大的分数线是 670 分，为了克服上述自选择偏误对估结果的影响，我们可以重点分析 [668-669] 分数段的学生 (未上北大-**对照组**) 与 [670-671] 分数段的学生 (上北大-**实验组**) 在毕业时的收入差异。由于单个学生无法左右北大的录取分数线，所以这里的实验组和对照组可以视为随机分组。同时，由于两者的分数差异被限定在一个很小的范围，我们可以认为他们各方面的特征也比较相近。此时，二者的收入差异可以归因为北大教育带来的效果。
+  - 本例中，高考分数称为分配变量，分数线 672 分称为分配点或断点 (cut-point)，而毕业后的收入则成为结果变量。我们把断点看成一种 treatment，断点右侧的是处理组，断点左侧的是控制组。如果结果变量在断点两侧发生了显著的跳跃 (jump)，则认为政策有效。**想一想：RDD 的合理性依赖于哪些假设条件？**
+    ![断点回归分析图示](https://upload-images.jianshu.io/upload_images/7692714-f97edfe5f8e524ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- **授课内容**
+  - 断点回归分析 (RDD) 简介
+  - 明确断点 RDD 分析 (Sharp RDD)
+  - 模糊断点 RDD 分析 (Fuzzy RDD)
+  - 范例：2 篇文章
 
 
+> #### 第6讲 合成控制法 (Synthetic control methods)
 
+- **何时使用合成控制法？**
+
+  在政策评价领域，长期存在着一个空白地带：有些政策只针对某一个省或某一个州实施，此时 DID，PSM 等方法都不再适用，因为我们只有一个孤零零的实验对象！Abadie, Diamond, and Hainmueller (2010, JASA) 提出的**合成控制法**，很好的解决了这类问题。他们研究了「加州」于1989年实施的禁烟法案的政策效果。其基本思想是，使用其他38个未实施禁烟法案的州的加权平均来虚构一个 **「合成加州」**，进而对比分析 **「加州」** 和 **「合成加州」** 在1989年之后香烟消费量的差异，这就是政策效果！作者还进一步的使用的组合检验，以及 **「安慰剂检验」** 来确定这一结果的统计显著性。
+  ![合成控制法图示 - Abadie_2010_Figure 2 ](https://upload-images.jianshu.io/upload_images/7692714-2f9f2f9519b036b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- **授课内容**
+  - 合成控制法简介
+  - 精讲一篇经典论文(Stata实现过程)：[1] Abadie, A., A. Diamond, J. Hainmueller, 2010, Synthetic control methods for comparative case studies: Estimating the effect of california's tobacco control program, ***Journal of the American Statistical Association***,  105 (490): 493-505\. [[PDF](https://pan.baidu.com/s/16KHY4Wz9lrbh3t19WHzwXQ)]
+   - 以一篇中文文献为例，介绍该模型的具体应用：[2] 苏治, 胡迪, 2015, 通货膨胀目标制是否有效?——来自合成控制法的新证据, 经济研究, (6): 74-88\. [[PDF](https://pan.baidu.com/s/1kpMyiS-jas4iq-sKn4qrrQ)]
+   - 亮点：样本中有多个国家实施了通胀目标制，作者多次使用 SMC，分别对每个国家进行分析；同时，作者对 SMC 相对于 DID 和 PSM 的优劣进行了详细的论述。
+
+---
+## 4. 报名信息
+- 主办方：太原君泉教育咨询有限公司
+- 费用 （含报名费、材料费），差旅及食宿费自理：
+  - 全价：3000元/人（预报名价 2900元/人，预报名10月31日截止）
+  - 三人以及上：2800元/人
+  - 团报价：2600元/人（五人及以上）
+  - 学生价：2600元/人
+  - Note: 以上所有优惠不叠加。
+- 联系方式：
+  - 邮箱：wjx004@sina.com
+  - 电话 (微信同号)：王老师 18903405450 ；李老师 ‭1863610246
+  - 对公账户： 35117530000023891（山西省太原市晋商银行南中环支行)
+  - 公众号： 可搜索公众号名称（君泉Stata）或扫描二维码关注公众号了解详情
+- 温馨提示： 按预报名顺序排座位
+
+长按/扫描二维码报名：
+![扫码报名](https://img-blog.csdn.net/20180921142807482?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FybGlvbm4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+------
+>免费听课了！诚邀 Stata 培训课程助教
+
+为保证本次课程的全方位答疑解惑，现招聘培训课程助手数名，主要辅助老师的教学工作，以及这次培训事项的安排。所招聘助手将会获得免费听取课程的机会。
+
+- **名额：** 3-5 名
+- **任务：**  (1) 协助老师的教学工作，以及这次培训事项的安排；(2) 负责课间答疑和课后在线答疑 (下午5:00-5:30的答疑由主讲教师负责)。
+- **要求：** 熟悉Stata常用命令，能对常见问题进行解答和记录。
+- **优惠：** Stata助教可以免听课费。（注：食宿和差旅费需自理）
+- **申请资料：** 个人简历（姓名、联系方式、教育背景、以往发表论文和实证研究经验等，200-500字即可）
+- **提交申请：** 请同时发送至 statachina@163.com 和 wjx004@sina.com
+
+---
+![欢迎加入Stata连享会(公众号: StataChina)](http://upload-images.jianshu.io/upload_images/7692714-bb790ce3e251c1a3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "扫码关注 Stata 连享会")
