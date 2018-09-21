@@ -28,7 +28,7 @@
 
 ### 林建浩
 ![林建浩](https://upload-images.jianshu.io/upload_images/7692714-05cefd83d75ed2b4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
-**[林建浩](http://lingnan.sysu.edu.cn/node/160)**，中山大学岭南学院经济学系副教授，主要研究领域为计量经济学理论与应用、实证宏观、文化与经济行为。在《经济研究》、《管理世界》、《统计研究》、《金融研究》、《经济学（季刊）》等学术刊物上发表多篇论文，主持国际自然科学基金、广东省自然科学基金等多项课题。
+**[林建浩](http://lingnan.sysu.edu.cn/node/160)** ，中山大学岭南学院经济学系副教授，主要研究领域为计量经济学理论与应用、实证宏观、文化与经济行为。在《经济研究》、《管理世界》、《统计研究》、《金融研究》、《经济学（季刊）》等学术刊物上发表多篇论文，主持国际自然科学基金、广东省自然科学基金等多项课题。
 
 ---
 ### 江艇
@@ -40,7 +40,7 @@
 ---
 ### 连玉君
 ![连玉君](https://upload-images.jianshu.io/upload_images/7692714-22cda599d9d18579.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
-**[连玉君](http://lingnan.sysu.edu.cn/node/151)**，经济学博士，副教授，博士生导师。2007年7月毕业于西安交通大学金禾经济研究中心，现任教于中山大学岭南学院金融系。主讲课程为“金融计量”、“计量分析与Stata应用”、“实证金融”等。已在《China Economic Review》、《经济研究》、《管理世界》、《经济学(季刊)》、《金融研究》、《统计研究》等期刊发表论文60余篇。连玉君副教授主持国家自然科学基金项目（2项）、教育部人文社科基金项目、广东自然科学基金项目等课题项目10余项。目前已完成 Panel VAR、Panel Threshold、Two-tier Stochastic Frontier 等计量模型的 Stata 实现程序，并编写过几十个小程序，如 `xtbalance`, `winsor2`, `bdiff`, `hausmanxt`, `ttable3`, `hhi5`, `ua`等。连玉君老师团队一直积极分享Stata应用中的点点滴滴，开设了 [[Stata连享会-简书]](https://www.jianshu.com/u/69a30474ef33)，[[Stata连享会-知乎]](https://www.zhihu.com/people/arlionn) 两个专栏，并定期在微信公众号 (**StataChina**) 中发布精彩推文。
+**[连玉君](http://lingnan.sysu.edu.cn/node/151)** ，经济学博士，副教授，博士生导师。2007年7月毕业于西安交通大学金禾经济研究中心，现任教于中山大学岭南学院金融系。主讲课程为“金融计量”、“计量分析与Stata应用”、“实证金融”等。已在《China Economic Review》、《经济研究》、《管理世界》、《经济学(季刊)》、《金融研究》、《统计研究》等期刊发表论文60余篇。连玉君副教授主持国家自然科学基金项目（2项）、教育部人文社科基金项目、广东自然科学基金项目等课题项目10余项。目前已完成 Panel VAR、Panel Threshold、Two-tier Stochastic Frontier 等计量模型的 Stata 实现程序，并编写过几十个小程序，如 `xtbalance`, `winsor2`, `bdiff`, `hausmanxt`, `ttable3`, `hhi5`, `ua`等。连玉君老师团队一直积极分享Stata应用中的点点滴滴，开设了 [[Stata连享会-简书]](https://www.jianshu.com/u/69a30474ef33)，[[Stata连享会-知乎]](https://www.zhihu.com/people/arlionn) 两个专栏，并定期在微信公众号 (**StataChina**) 中发布精彩推文。
 
 ---
 ## 3. 授课内容
