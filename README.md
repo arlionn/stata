@@ -1,282 +1,195 @@
-![Stata现场班-2019寒假](https://upload-images.jianshu.io/upload_images/7692714-454ae992d8dd0b2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![空间计量专题-海报.jpg](https://images.gitee.com/uploads/images/2019/0314/173716_890dd422_1522177.jpeg)
+
+[toc]
+
+## 1. 课程概览
+- **时间：** 2019 年 6 月 27-30 (周四-周日)
+- **地点：** 西安，西北工业大学国际会议中心  ([百度地图](https://j.map.baidu.com/yXIiP) | [搜狗地图](http://map.sogou.com/u/MvmiOn))
+- **主讲嘉宾**：杨海生 (中山大学)；杨超 (上海财经大学)
+- **授课方式：** 
+  - PPT + 电子板书
+  - 每天 6 小时 (9:00-12:00；14:00-17:00)+半小时答疑
+  - 讲义电子版于开课前一周发送；精美讲义由主办方统一印制
+  - 软件：Matlab + Stata
 
 
-> &emsp;
-> 
-> #### [- PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/%E8%BF%9E%E7%8E%89%E5%90%9B-%E6%B1%9F%E8%89%87_2019%E5%AF%92%E5%81%87_%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2.pdf)
->
-> &emsp; 
-
-
-&emsp;   
-&emsp;  
----
-## A. 课程概要
-
-> **时间：** 2019 年 1 月 17-27 日    
-> **地点：** 北京 中国青年政治学院      
-> **授课教师：** 连玉君 (初级+高级) || 江艇 (论文班) 
-
-
-- **Stata寒假研讨[全程班](http://www.peixun.net/view/1224.html)** 
-   - 时间地点：2019 年 1 月 17 日-27 日，北京
-   - 课程链接：[http://www.peixun.net/view/1224.html](http://www.peixun.net/view/1224.html)
-   
-- **Stata寒假研讨[初级班](http://www.peixun.net/view/308_detail.html)**
-   - 时间地点：2019 年 1 月 17 日-19 日 (三天)，北京
-   - 课程链接：[http://www.peixun.net/view/307_detail.html](http://www.peixun.net/view/307_detail.html)
-
-- **Stata寒假研讨[高级班](http://www.peixun.net/view/308_detail.html)**
-   - 时间地点：2019 年 1 月 21 日- 23 日 (三天)，北京
-   - 课程链接：[http://www.peixun.net/view/308_detail.html](http://www.peixun.net/view/308_detail.html)
-
-- **Stata寒假研讨[论文班](http://www.peixun.net/view/1135.html)**
-   - 时间地点：2019 年 1 月 25 日- 27 日 (三天)，北京
-   - 课程链接：[http://www.peixun.net/view/1135.html](http://www.peixun.net/view/1135.html)
-
-
->  &emsp;    
-> 》》》欢迎加入 [STATA学习-连享会] **QQ群 225012362**，一同学习 Stata！    
->
-> 》》》申请时，请填写如下备注信息：**Stata连享会邀请-学校简称-姓名** 。
->  &emsp;
->  &emsp;  
-
-&emsp;   
-&emsp;  
-
-## B. 讲授嘉宾简介
+## 2. 主讲嘉宾简介
 
 ---
-### 连玉君
-
-![连玉君](https://upload-images.jianshu.io/upload_images/7692714-22cda599d9d18579.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
-**[连玉君](http://lingnan.sysu.edu.cn/node/151)** ，经济学博士，副教授，博士生导师。2007年7月毕业于西安交通大学金禾经济研究中心，现任教于中山大学岭南学院金融系。主讲课程为“金融计量”、“计量分析与Stata应用”、“实证金融”等。已在《China Economic Review》、《经济研究》、《管理世界》、《经济学(季刊)》、《金融研究》、《统计研究》等期刊发表论文60余篇。连玉君副教授主持国家自然科学基金项目（2项）、教育部人文社科基金项目、广东自然科学基金项目等课题项目10余项。目前已完成 Panel VAR、Panel Threshold、Two-tier Stochastic Frontier 等计量模型的 Stata 实现程序，并编写过几十个小程序，如 `xtbalance`, `winsor2`, `bdiff`, `hausmanxt`, `ttable3`, `hhi5`, `ua`等。连玉君老师团队一直积极分享Stata应用中的点点滴滴，开设了 [[Stata连享会-简书]](https://www.jianshu.com/u/69a30474ef33)，[[Stata连享会-知乎]](https://www.zhihu.com/people/arlionn) 两个专栏，并定期在微信公众号 (**StataChina**) 中发布精彩推文
-
----
-### 江艇
-![江艇](https://upload-images.jianshu.io/upload_images/7692714-97356ba490e22161.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
-**江艇**，香港科技大学商学院经济学博士，中国人民大学经济学院副教授，人大国家发展与战略研究院研究员，人大微观数据与实证方法研究中心副主任，美国哥伦比亚大学商学院访问学者。主要研究领域为经济增长与发展、城市经济学、新政治经济学，在*Economics Letters*、*Review of Development Economics*、《经济研究》、《管理世界》、《世界经济》等国内外著名学术刊物上发表多篇论文，曾应邀在多所高校讲授“应用微观计量经济学”短期前沿课程并广受好评。 
+![主讲嘉宾-杨海生.jpg](https://images.gitee.com/uploads/images/2019/0314/173716_714119bc_1522177.jpeg "连享会-空间计量专题-主讲嘉宾-杨海生")
 
 
+[杨海生](http://www.lingnan.sysu.edu.cn/lnshizi/faculty_vch.asp?tn=95)，中山大学岭南学院经济学系副教授，主要研究领域为空间计量经济学理论与应用、实证金融。在 Economic Geography、Ecological Economics、《经济研究》、《管理世界》、《管理科学学报》、《金融研究》等学术刊物上发表多篇论文，主持和参与多项国家自然科学基金、广东省自然科学基金等课题研究。
 
+![主讲嘉宾-杨超.jpg](https://images.gitee.com/uploads/images/2019/0314/173716_6e38048d_1522177.jpeg "连享会-空间计量专题-主讲嘉宾-杨超")
 
-&emsp;
-&emsp;
-
-
-----
-## 1. Stata初级班
-----
-- **授课嘉宾：** 连玉君 (中山大学)
-- **时间：** 2019年1月17日-19日 (三天)
-- **地点：** 北京市海淀区 中国青年政治学院
-- **课程详情：** [http://www.peixun.net/view/307_detail.html](http://www.peixun.net/view/307_detail.html)
-- **授课安排**    
-   (1) 授课方式：采用 Stata15 软件，中文多媒体互动式授课方式    
-   (2) 授课时间：上午 9:00-12:00，下午 14:00-17:00 (17:00-17:30答疑)。
-
-
-
-
-### 1.1 课程导引
-
-实证分析中，最伤神和耗时的事情莫过于研究设计和数据处理。在以往的授课中，很多同学和老师都是在听完了高级班的课程以后，又返回头来听初级班的内容。他们有一个共同的感触就是，没有一个扎实的基础，以及对计量经济学和Stata整体架构的认识，后续的学习成本会越来越高。
-
-**在初级班中，我力求将三天的课程设置成一个比较完整的体系，目的有二：** 
-
-其一，希望大家经过三天的学习（尚需另外花费1-2个月的时间演练吸收），能对基本的统计和计量分析方法有所掌握，能读懂多数期刊论文中使用的分析方法；
-
-其二，希望诸位能建立起 Stata 的基本架构，熟知 Stata 能做什么、如何做？以期为后续学习打下宽厚扎实的基础。
-
-翻阅 Top 期刊上的论文，你会发现多数论文并没有使用非常复杂的方法，关键在于论文的想法或视角比较独特，并使用了恰当的方法来论证。这里的关键在于研究设计，而这在目前的计量教科书中鲜有涉及。为此，本次研讨班突出两个特点：一方面，我会努力把基础知识讲解透彻，进度上不求快；另一方面，我在每个专题中都会提供了 2-3 篇比较经典的论文，展示这些方法的合理应用。
-
-在**内容安排**上，基本上遵循了由浅入深，循序渐进的原则。
-
-**第 1-3 讲**依序介绍 Stata 的基本用法、数据处理和程序编写，学习这些内容无需太多的计量经济学基础，但对于提高实证分析能力和分析效率，大有裨益。
-
-**第 4-5 讲**介绍文献中使用频率最高的线性回归模型，包括 OLS 的原理、结果的解释，以及虚拟变量和交乘项的使用等。对于这些内容的深刻理解和熟练掌握，构成了后续，多种主流实证模型的基础，例如，目前文献中广泛使用的固定效应模型 (FE)，倍分法 (DID)，断点回归设计 (RDD) 等方法，本质上就是在传统的线性模型基础上，增加一些虚拟变量或交乘项，配合巧妙的研究设计，来实现对不可观测的个体效应的控制，以及对政策效应的估计。
-
-**第 6 讲**介绍固定效应模型 (FE)，是第 4 讲和第 5 讲内容的延伸和应用，也是目前解决遗漏变量和内生性问题比较常用的方法。
-
-**具体说明如下：** 
-
-在**第 1-2 讲**中，我会以一篇文章为实例，说明 Stata 的基本语法结构，并对数据处理过程中的关键问题进行介绍，如离群值的处理、文字变量的处理等。就我个人的经验而言，数据处理能力的高低直接决定实证分析的效率，而对于离群值的处理是否妥善会直接影响全文结果的稳健性，是多数人不够重视但却至关重要的问题。
-
-**第3讲**介绍 Stata 编程的基础知识。但凡提及写程序，很多人都会产生恐惧心理，其实，一旦掌握了最基本的原理和语法格式，Stata 中的程序设定并没有想象的那么困难。更为重要的是，对于多数人而言，由于并不需要写完整的 ado 文档，因此只需要学会最基本的条件语句和循环语句即可，难度又会进一步降低。
-
-**第 4 讲和第 5 讲**介绍实证分析中的模型设定和结果解释问题。很多人会觉得 OLS 很简单，但 Top 期刊中使用最多的仍然是 OLS，如何合理的构建模型、解释结果便成为实证分析中必须掌握的。我精选了大家经常面临的几个专题并结合论文进行讲解，包括：虚拟变量的使用、交叉项的使用和解释、分组回归的合理设定和假设检验，还有在经济学和金融学中相对较新的 R2 贡献度分析。
-
-**第 6 讲**介绍了目前广泛应用的 **面板数据模型**。由于面板资料的获取越来越方便，目前多数研究中使用的都是面板数据。在讲解这些模型的基本思想和估计方法的过程中，笔者会将重点放在模型含义和应用范围上来。例如，对于同一笔数据而言，何时采用 OLS 进行估计，何时采用 FE 估计？不同的方法之间有何差异和关联？结果背后的经济含义如何解读？掌握这些方法有助于大家合理控制内生性问题，以便得到更为可信的结论。
-
-### 1.2 课程大纲（Stata初级班）
-
-![连玉君主讲-Stata寒假2019-初级班课程大纲](https://upload-images.jianshu.io/upload_images/7692714-563ba6352ec448e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-&emsp;
-&emsp;
-
-
-----
-## 2. Stata高级班
-----
-- **授课嘉宾：** 连玉君 (中山大学)
-- **时间：** 2019 年 1 月 21 日- 23 日 (三天)
-- **地点：** 北京市海淀区 中国青年政治学院
-- **课程详情：** [http://www.peixun.net/view/307_detail.html](http://www.peixun.net/view/307_detail.html)
-- **授课安排**
-   (1) 授课方式：采用 Stata15 软件，中文多媒体互动式授课方式
-   (2) 授课时间：上午 9:00-12:00，下午 14:00-17:00 (17:00-17:30答疑)。
-
-
-### 2.1 课程导引
-
-Stata高级班包括6个专题，重点讲述各类面板模型以及一些新近发展的内生性处理方法。主要涉及如下几个方面的内容：
-(1) 面板模型：动态面板、面板VAR和面板门槛模型（第1讲和第2讲），前者在刻画变量之间的动态关系，以及政策冲击方面非常有用；而后者则在近年中分析结构变化方面得到了广泛的应用。
-(2) 内生性问题，包括处理效应模型（第3讲）；断点回归分析(RDD, 第4讲)；合成控制法(SCM, 第5讲)。
-(3) 论文写作和课题申请专题。
-
-**Stata 高级班**包括 6 个专题，重点讲述各类面板模型以及一些新近发展的内生性处理方法。主要涉及如下几个方面的内容：
-
-- **面板模型：** 动态面板模型、面板VAR模型和面板门槛模型（第 1 讲和第 2 讲），前者在刻画变量之间的动态关系，以及政策冲击方面非常有用；而后者则在近年中分析结构变化方面得到了广泛的应用。
-- **内生性问题：** 包括处理效应模型（第 3 讲）；断点回归分析(RDD, 第 4 讲)；合成控制法(SCM, 第 5 讲)。
-- **论文写作和课题申请专题**。
-
-**课程特色和内容：** 
-
-时至今日，多数领域使用的都是面板数据，也对相关的模型提出了越来越高的要求。在 **第 1 讲** 中，我将介绍专门用来分析变量自身以及多个变量之间动态关系的动态面板数据模型和面板 VAR 模型。这两类模型在经济增长、公司金融、国际贸易、劳动经济学等领域都得到了广泛应用。此外，在实证分析中，经常要处理结构变化问题，目前主要使用交叉项和分组回归等方式，但这两种设定方法都需要预先知道或假设结构变化点，使其合理性颇受质疑。而 **第 2 讲** 中介绍的面板门槛模型则基于“让数据说话”的原则，自动搜索结构变化点，从而克服了上述方法的局限。
-
-显然，内生性问题是困扰我们这个时代的学者的一个普遍而棘手的问题。为此，高级班将通过三个专题全面深入地介绍了内生性问题。
-
-**第 3 讲** 介绍用以解决自我选择偏误导致的内生性问题的模型。一是**处理效应模型**，主要应对解释变量中所包含的 0/1 内生变量；二是 **Heckman 选择模型**，主要应对被解释变量观察值非随机缺失问题。翻阅最近2年发表于《经济研究》、《管理世界》、《经济学(季刊)》等期刊的文章，这两类模型在处理内生性问题方面得到了日益广泛的应用。
-
-**第 4 讲** 和 **第 5 讲**介绍的**断点回归**设计方法 (RDD) 以及**合成控制法** (SCM) 则是近年来被公认为“最为干净”的准实验方法，在政策评价领域得到了特别的青睐。
-
-在政策评价领域，长期存在着一个空白地带：有些政策只针对某一个省或某一个州实施，此时 DID，PSM 等方法都不再适用，因为我们只有一个孤零零的实验对象！
-
-在 **第 5 讲** 中，[Abadie, Diamond, and Hainmueller (2010, JASA)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Abadie_2010_SCM.pdf)  提出的合成控制法，可以很好的解决了这类问题。他们研究了「加州」于 1989 年实施的禁烟法案的政策效果。其基本思想是，使用其他 38 个未实施禁烟法案的州的加权平均来虚构一个「合成加州」，进而对比分析「加州」和「合成加州」在 1989 年之后香烟消费量的差异，这就是政策效果！作者还进一步的使用的组合检验，以及「安慰剂检验」来确定这一结果的统计显著性。
-
-在 **第 6 讲** 中，我将根据个人的研究经历，分享做一篇规范的实证研究的经验。主要内容包括：论文的选题、研究贡献的挖掘和陈述，以及研究设计等。
-
-作为经济研究、管理世界、金融研究、会计研究、世界经济等期刊的匿名审稿人，我发现很多论文虽然有很好的想法，但往往因为如下原因而无法通过评审。其一，缺乏严谨规范的文献综述，使得读者难以判断文章的边际贡献；其二，实证分析部分虽然使用了比较前沿的方法，但基础工作不够扎实，如样本的筛选过程不严谨、离群值未妥善处理、指标的选取过于随意、结论的稳健性值得怀疑等；其三，实证结果的呈现方式不妥，分析不够深入，论文的排版不够精致，导致读者的第一印象比较差。
-
-对于申请课题，我感触良多。
-
-我于 2007 年开始自己的教师生涯，此前没有申请过任何课题，致使我在 2008 年的申请的四项课题全军覆没。痛定思痛，我收集了多位前辈的标书，反复研究，发现写论文与写标书存在很大的差异。
-
-论文力求清晰地呈现和解释你的研究假设和研究结果，而课题申请书则需要强调你所研究的问题的重要性和特色，这是一个更高层次的问题。由于是研究计划，不要求细节上的准确性，但问题要明确、思路要清晰，结构要合理，论证要有说服力。因此，很多时候是研究工作已经完成了十之八九，已经对问题有非常深刻的认识了，才能反向思维把标书写好。任何故弄玄虚、试图蒙混过关的想法都不可行。
-
-2009 年，我顺利获得教育人文社科基金和广东自然科学基金资助，2010 年进一步获得国家自然科学基金青年项目资助，此后又获得了多项课题的资助，并于 2016 年获得国家自然科学基金面上项目资助。事实上，了解了不同类型课题基金的特点，再辅以扎实的前期研究基础，获得资助并不是遥不可及的事情。
-
-相对于初级班，高级班的内容在难度上，虽然难度有所增加，但思路和架构更为清楚。在学习方法上，高级班与初级班有所不同。初级班的主要目的在于打下扎实的基础，建立一个完整的学习架构，而在高级班中，我则建议大家重点学习与自己研究方向密切相关的方法，通过广泛阅读文献来掌握这些方法在不同场景下的应用条件和变通方法。
-
-
-### 2.2 课程大纲（Stata高级班）
-
-![连玉君主讲-2019高级班-课程大纲](https://upload-images.jianshu.io/upload_images/7692714-d2a2607053211de2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-&emsp;
-&emsp;
-
-
+[杨超](http://econ.sufe.edu.cn/6f/b9/c7020a94137/page.htm)，经济学博士，副教授，2015 年毕业于美国俄亥俄州立大学，现任教于上海财经大学经济学院。主讲“计量经济学”、“微观计量经济学”、“高等数理统计”、“高级金融经济学”等课程。主要研究方向为空间计量经济学、网络计量经济学、应用微观经济学。已在计量经济学顶级期刊 Journal of Econometrics、空间计量经济学领域权威期刊 Regional Science and Urban Economics 等期刊发表数篇学术论文，担任 Journal of Econometrics, Journal of Business & Economic Statistics 等国际期刊审稿人，获国家自然科学青年基金项目资助。
 
 ---
-## 3. Stata论文班
+
+
+## 3. 课程详情
+
+### 3.1 课程介绍
+
+>- **为什么要学空间计量？**
+>   - 唇亡齿寒、城门失火殃及池鱼、近朱者赤近墨者黑
+>   - 空间相关、空间溢出效应如此普遍
+>- **我们将学到什么？**
+>   - 空间自回归模型 (SAR), 空间误差模型 (SEM)
+>   - 空间静态\动态面板模型 
+>   - 空间交互影响
+>   - 引力模型
+>   - 同行效应
+>   - Probit\Tobit 空间计量模型
+>   - 20+ 篇 Top 期刊论文展示解读
+
+可以想象，若德克萨斯州的失业率上升 10%，该州的谋杀率也必然会上升。然而，城门失火殃及池鱼，我们更关心的可能是：德州周边各州的谋杀率会如何变化呢？下面这幅 [GIF 图形](https://www.jianshu.com/p/7cc5899b85ca) 便展示了基于空间自回归（SAR）模型估计出的空间溢出效应。
+
+![德州失业率上升 10% 后其他州谋杀率的动态变化](https://upload-images.jianshu.io/upload_images/7692714-8ffc0169be6a640a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/728/format/webp "空间溢出效应：德州失业率上升 10% 后其他州谋杀率的动态变化")
+
+显然，在国际贸易、财政支出、区域创新、产业集聚、能源消费、环境污染、公司金融等诸多领域都存在这种空间相关或空间溢出效应。得益于空间计量经济学在过去几十年的快速发展，上述话题得以深入挖掘。
+
+本课程将通过为期四天的讲解，帮助学员们了解并掌握空间相关性的产生缘由，各类空间计量模型的设定、估计和检验方法，并通过讲解发表于 Top 期刊的经典论文来展示这些模型的实际应用和实现过程。
+
+具体来说，我们将回顾三代空间计量模型的由来、发展及演变历程。不仅会介绍各类空间模型的设定和估计方法，也会深入讨论模型参数和结果的经济含义。在此基础上，会进一步介绍面板空间计量模型、Probit/Tobit 空间计量模型，以及能够刻画空间交互影响、空间和社交网络关系的模型。
+
+课程的关注重点在空间计量模型的应用，我们将利用经典文献的数据集对不同的空间计量模型进行演示，并提供分析结果所使用的 Matlab 和 Stata 程序，以便学员们能够使用这些程序来进行自己的实证分析。此外，我们还将介绍基本模型的拓展及其在金融、国际贸易、环境经济学、财政以及区域经济学等领域中的应用。
+
+
+
+> 各个专题的具体介绍如下：
+
+**第一讲** 首先回顾三代空间计量模型的设定思想和发展演变历程，以及不同空间模型之间的差异，以便各位能够合理设定和筛选模型；进而讲解空间计量模型中的三种主要估计方法：MLE、IV 和 GMM，配以 Matlab+Stata 编程实例。
+
+**第二讲** 将通过一个热门话题 (**同行效应**) 的深入剖析来理解经典空间计量模型在金融领域特别是实证金融中的应用，以便各位了解从 “讲故事”到“建模型”这一过程中可能遇到的各种障碍和解决方法。首先，我们会通过对 Peer Effect 的刻画，把空间计量模型的应用扩展到实证金融的诸多领域，然后讲解 Peer Effect 中公司之间交互影响的微观理论基础。进而介绍 Peer Effect 的识别问题和参数估计的 Stata 实现。
+
+**第三讲** 介绍高阶空间滞后模型。详细讲解有高阶空间滞后项的空间计量模型的空间权重设定、以及相应的 IV 及 GMM 估计原理和 Matlab + Stata 实现，最后简要介绍高阶空间滞后模型的拓展及发展方向。
+
+**第四讲** 对前三讲介绍的空间计量的基本模型进行拓展，并结合金融、国际贸易、环境经济学、财政及区域经济学的经典文献帮助学员更好的理解和掌握空间计量模型的应用和实操。
+
+**第五讲** 首先从国际贸易的具体例子 (Anderson, 1979; Anderson and Wincoop, 2004) 引出 **「空间交互影响」** 和 **「引力模型」** 的应用背景，进而详述如何用矩阵刻画空间关系，最后讲解 **「引力模型」** 的 MLE 估计方法，并介绍 Matlab 编程方法和结果的解读。
+
+**第六讲** 介绍空间和社交网络的计量模型与应用，包括：基本的网络结构，网络交互影响模型的微观基础、识别问题和 MLE 估计方法。我们会通过对空间关系的网络刻画，展现实际生活中各种不同的网络实例；进而讲解网络中个体之间产生交互影响的微观理论基础，以及网络中基本的（关于“**同辈效应**”）识别问题；最后讲解参数模型的估计方法。
+
+**第七讲** 介绍空间面板数据模型的基本估计方法。对于静态空间面板模型，主要介绍包含固定效应的静态面板模型的直接估计法和间接估计法，以及如何通过 Matlab 编程实现；最后简要介绍动态空间面板模型的估计方法。
+
+**第八讲** 介绍当被解释变量为二元选择或者截断数据时，空间计量模型的建立和估计，主要包括 Probit 空间计量模型和 Tobit 空间计量模型。这是近年来研究的热点和难点，在课程中首先介绍如何检验空间关联的存在性，再介绍模型的估计，并做实际应用演示。
+
+
+### 3.2 课程大纲
+
+#### 第 1 讲 何谓空间计量？（3小时）
+  - 空间计量模型的由来、发展及演变历程
+  - 几类主要的空间计量模型：SEM，SAR，SEM+SAR
+  - 空间计量模型的估计方法：MLE、IV 和 GMM
+  - 空间计量模型的 Matlab+Stata 实现
+
+####  第 2 讲 实例剖析：Peer Effect (同群效应)（3小时）
+  - Peer Effect 与空间计量：由来与设定
+  - 资产定价中的 Peer Effect 
+  - 公司决策中的 Peer Effect
+  - 范例论文：
+    - Pirinsky C , Wang Q . Does Corporate Headquarters Location Matter for Stock Returns?[J]. **Journal of Finance**, 2006, 61(4):1991-2015. [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-6261.2006.00895.x)
+    - Leary M T, Roberts M R. Do Peer Firms Affect Corporate Financial Policy?. **Journal of Finance**, 2014, 69(1):139–178. [[PDF]](http://finance.wharton.upenn.edu/~mrrobert/resources/Publications/PeerEffectsJF2014.pdf)
+    - Foucault, T., L. Fresard, Learning from peers' stock prices and corporate investment, **Journal of Financial Economics**, 2014, 111 (3): 554-577. [[PDF]](https://ac.els-cdn.com/S0304405X1300295X/1-s2.0-S0304405X1300295X-main.pdf?_tid=8a0270c1-0029-428f-b2a4-d5d7f94ae424&acdnat=1552441238_3b9e1b4b6e1d12c6952f4ff382df1ec2)
+
+#### 第 3 讲 高阶空间滞后模型（3小时）
+  - 高阶空间滞后模型的由来（Case et al., 1993）
+  - 高阶空间滞后模型的估计（IV 和 GMM）
+  - 高阶空间滞后模型的 Matlab+Stata 实现及应用
+
+#### 第 4 讲 空间计量的应用实例（3小时）
+  - 空间计量在金融中的应用
+  - 空间计量在财政、环境经济学的应用
+  - 空间计量在国际贸易和区域经济学的应用
+  - 范例论文：
+    - Jillian Grennan . Dividend payments as a response to peer influence. **Journal of Financial Economics**, 2019, 131(3): 549-570. [[PDF]](https://ac.els-cdn.com/S0304405X18302757/1-s2.0-S0304405X18302757-main.pdf?_tid=2c9a3f7b-f5c5-4f31-b7a1-9361c67879dc&acdnat=1552441309_a816c55317cbf61603f9b91d20a05941)
+    - 白俊红, 蒋伏心. 协同创新、空间关联与区域创新绩效. **经济研究**, 2015, 50(07): 174-187. [[PDF]](http://sxy.njnu.edu.cn/cxjd/uploadfile/201610/20161002221851174.pdf)
+    - 龙小宁, 朱艳丽, 蔡伟贤, 李少民. 基于空间计量模型的中国县级政府间税收竞争的实证分析. **经济研究**, 2014(8): 41-53. [[CNKI]](http://www.cnki.com.cn/Article/CJFDTotal-JJYJ201408004.htm), [[PDF]](http://ww2.usc.cuhk.edu.hk/PaperCollection/webmanager/wkfiles/2012/201506_07_paper.pdf)
+    - 尹恒, 徐琰超. 地市级地区问基本建设公共支出的相互影响. **经济研究**, 2011(7): 55-64. [[PDF]](http://ww2.usc.cuhk.edu.hk/PaperCollection/webmanager/wkfiles/8427_1_paper.pdf)
+    - Aklin M. Re-exploring the Trade and Environment Nexus Through the Diffusion of Pollution. **Environmental & Resource Economics**, 2016, 64(4): 663-682. [[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs10640-015-9893-1.pdf)
+
+#### 第 5 讲 空间交互影响与引力模型（3小时）
+  - 贸易成本与引力模型
+  - 引力模型的矩阵表示
+  - 基本引力模型的拓展
+  - 引力模型的估计
+  – 范例论文 
+    - Anderson, James. A Theoretical Foundation for the Gravity Model of Factor Flows. No. 85. Boston College Department of Economics, 1978. [[PDF]](http://fmwww.bc.edu/EC-P/wp85.pdf)
+    - Anderson, James E., and Eric Van Wincoop. "Trade costs." **Journal of Economic literature** 42.3 (2004): 691-751. [[PDF]](https://www.bc.edu/content/dam/files/schools/cas_sites/economics/pdf/workingpapers/wp593.pdf)
+    - LeSage, James, and Robert Kelley Pace. Introduction to spatial econometrics. Chapman and Hall/CRC, 2009. [[Link]](https://max.book118.com/html/2018/1230/6104220150001242.shtm)
+
+#### 第 6 讲 网络交互影响模型（3小时）
+  - 空间关联与网络链接
+  - 网络交互影响的微观基础
+  - 同辈效应与识别 (the "Reflection Problem")
+  - 基本交互影响模型的估计
+  - 范例论文
+    - Brock, William A., and Steven N. Durlauf. "Discrete choice with social interactions." **Review of Economic Studies** 68.2 (2001): 235-260. [[PDF]](http://www.macroeconomics.tu-berlin.de/fileadmin/fg124/networks/Lectures/Summer2012/Material/Review_of_Economic_Studies_2001_Brock.pdf)
+    - Manski, Charles F. "Identification of endogenous social effects: The reflection problem." **Review of Economic Studies** 60.3 (1993): 531-542. [[PDF]](https://watermark.silverchair.com/60-3-531.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAj4wggI6BgkqhkiG9w0BBwagggIrMIICJwIBADCCAiAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMudIORh9pu32sK_3kAgEQgIIB8e0YwA_LIceC3-6I98dH-iNsozken7gFQBLNZK2aiP2mVM1lwc_AK3-L86tqaudfG7Mc9tHV_Ek9wPLEO2EsLQn6CRcr4K0GPEq1NY2MdpCbzr5DPirOJXlr92nK5bDurN3xjoB8SLmXKPsFDb5Dv0_HpDzCOts5FChrErIAD7WZnROEuFo5_nzUB4Hdk0aS--ketLI7OszrQJictA2TDeUp4vcygFjuftT-4RnrFr0Vv2fyA6U6d4O9-Xr_OTUeDIZ0s5GiXD--mkQc4yoPFpje69l04jywWhZebLeH5AgEIDBQB4HbIvpyyxjL43fuh8MMvFVP6MYNwVlhIRWyu-8GMpmGh9Hfvlr8b9LFL_gisbVNl0N9uIF8tiFuaE7SynbsIjVRoDF-3a7pw6CCMDhyGhKAgWSqJlGi5TiMVJbP4VkhItdb9runaSiUEli44f_G9_qyspTrPQhyvcjL0DDwNfQ5NaUqe1nMzjsPMnbk96y5FuyfYjGA1Lit3kCe0JP4QgF5j2k-Fw-LqqMiZ2P6JC-Xs_Lhgqj2d6RCXtgrxTQAkBbpzZ6z2f9fCGDpsGBDDkX_YbZqMHZXQtBaSblkrn_fj7I-COMsofNbAGoYgpvjWTdYcPHHrNt2EX-Sp8HrW75yErv4MUl75KHoyeGR)
+    - Lee, Lung-fei, Ji Li, and Xu Lin. "Binary choice models with social network under heterogeneous rational expectations." **Review of Economics and Statistics** 96.3 (2014): 402-417. [Link](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00401)
+    - Yang, Chao, and Lung-fei Lee. "Social interactions under incomplete information with heterogeneous expectations." **Journal of Econometrics** 198.1 (2017): 65-83. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0304407617300131/pdfft?md5=ad3b04bef17ed69414b486980fdf2b45&pid=1-s2.0-S0304407617300131-main.pdf)
+    - Yang, Chao, Lung-fei Lee, and Xi Qu. "Tobit models with social interactions: Complete vs incomplete information." **Regional Science and Urban Economics** 73 (2018): 30-50. ；[[PDF]](https://ac.els-cdn.com/S0166046217304568/1-s2.0-S0166046217304568-main.pdf?_tid=c49d4758-decb-4703-96e1-f0e0eb52b20a&acdnat=1552462538_a9cb23849fd6517f913938122604835b)
+    - Yang, Chao, and Lung-fei Lee. "Strategical interactions on municipal public safety spending with correlated private information." **Regional Science and Urban Economics** 72 (2018): 86–102. [[PDF]](https://ac.els-cdn.com/S0166046216302629/1-s2.0-S0166046216302629-main.pdf?_tid=cb30839d-c8e3-469e-8a5f-f50481e539a7&acdnat=1552462578_6e543775a12d6bc90b83ab21ef273255)
+
+#### 第 7 讲 空间面板数据模型（3小时）
+  - 空间面板数据模型简介
+  - 有固定效应的静态面板模型的估计
+  - 动态面板模型
+  - 范例论文
+    - Lee, Lung-fei, and Jihai Yu. "Estimation of spatial autoregressive panel data models with fixed effects." **Journal of Econometrics** 154.2 (2010): 165-185. [[PDF]](https://www.sciencedirect.com/science/article/pii/S030440760900178X/pdfft?md5=73cc11a75c593dd12affcee0c63bd40f&pid=1-s2.0-S030440760900178X-main.pdf)
+    - Lee, Lung-fei, and Jihai Yu. "Some recent developments in spatial panel data models." **Regional Science and Urban Economics** 40.5 (2010): 255-271. [[PDF]](https://ac.els-cdn.com/S0166046209000751/1-s2.0-S0166046209000751-main.pdf?_tid=f1f2db00-ce2f-4a78-a659-5e62c6f7347e&acdnat=1552522652_7390b6de839791d9bd50271647e80d9c) [[WP]](https://economics.ucr.edu/seminars_colloquia/2009/econometrics/Lee%20seminar%20paper%20for%204%2017%2009.pdf)
+    
+#### 第 8 讲 离散和受限数据的空间计量模型（3小时）
+  - Spatial Probit 与 Spatial Tobit 模型
+  - Spatial Tobit 模型的检验和估计
+  - 范例论文
+    - Qu, Xi, and Lung-fei Lee. "LM tests for spatial correlation in spatial models with limited dependent variables." **Regional Science and Urban Economics** 42.3 (2012): 430-445. [[PDF]](http://mis.acem.sjtu.edu.cn/UploadFiles/File/201407/20140703154638985.pdf)
+    - Qu, Xi, and Lung-fei Lee. "Locally most powerful tests for spatial interactions in the simultaneous SAR Tobit model." **Regional Science and Urban Economics** 43.2 (2013): 307-321. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0166046212000695/pdfft?md5=c0e49d2fcf670fadfc0d958b1fe3da74&pid=1-s2.0-S0166046212000695-main.pdf)
+    - Xu, Xingbai, and Lung-fei Lee. "Maximum likelihood estimation of a spatial autoregressive Tobit model." **Journal of Econometrics** 188.1 (2015): 264-280. [[PDF]](https://ac.els-cdn.com/S0304407615001657/1-s2.0-S0304407615001657-main.pdf?_tid=c31a6aed-f862-4ace-8e99-122ac3e23327&acdnat=1552522928_49c9425f1951c322e32c7b0d45211043)
+
+
+
+ 
 ---
-- **授课嘉宾：** 江艇 (中国人民大学)
-- **时间：** 2019 年 1 月 25 日- 27 日 (三天)
-- **地点：** 北京市海淀区 中国青年政治学院
-- **课程详情：** [http://www.peixun.net/view/307_detail.html](http://www.peixun.net/view/307_detail.html)
-- **授课安排**   
-   (1) 授课方式：采用 Stata15 软件，中文多媒体互动式授课方式；  
-   (2) 授课时间：上午 9:00-12:00，下午 14:00-17:00 (17:00-17:30答疑)。
-
-### 3.1 课程导引
-
-在过去几期的培训结束后，我们都会收集学员的建议。大家都非常迫切地希望能够精讲一些经典论文的实证分析过程，对自己在初级和高级班的所学有一个整体的认知。
-
-对于已经开始尝试独立开展研究工作的学员而言，大家明显地感觉到，研究设计是最棘手的问题。在之前有导师指导或带领的情况下，研究主题和研究内容都是预先给定的。此时，完成一篇论文相当于在做一个命题作文，而一旦开始独立门户，最大的挑战是找到合适的研究主题，做一个可靠的研究设计。这其实也是实证分析工作中最难的部分。
-
-在本次的学术论文班中，我们将挑选一些发表于顶尖期刊（包括 AER，QJE，JHR 等）上的代表性论文，详细讲解每篇论文的实证分析过程，剖析作者的研究思路、研究设计、内生性问题的处理、稳健性检验，以及对结果的详细剖析。我们会提供重现每篇论文所需的所有数据和程序文件，以便保证各位可以在听课后反刍，并将这些论文中的分析方法迁移到你的研究中去。
-
-精讲并重现经典论文，有如下**两方面的好处**：
-
-**一方面**，这些论文的研究设计都非常出色，我们可以借鉴并在博采众长的基础上，不断改进自己的研究设计思路和方法。只有去拆解和重现这些论文，才能够感受到作者的思考过程和写作意图，从而从实质上提高我们自身的分析和研究能力。
-
-**另一方面**，这些论文涵盖了目前实证分析中的主流方法，更为重要的是，每一篇论文通常会综合使用多种分析方法，这对于我们理解和灵活应用初级班和高级班所学的计量方法大有裨益。
-
-### 3.2. 专题介绍：Stata 学术论文班
-
-下面对课程中涉及的主要论文作简要介绍，以便各位了解此次课程的重点所在。
-
-**第 1 讲**中介绍的 [Rajan and Zingales (1998)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Rajan_Zingales_1998_AER.pdf)  的论文是交互项模型的经典之作。该文讨论金融发展如何通过放松企业的外部融资约束而促进增长，并用法律起源作为金融发展水平的工具变量。文章的计量模型的设定非常简洁，但行文论证极其精彩。我们不但可以学到如何用**交叉表**直观展示研究结果、如何构造指标来传达结果的经济含义；而且可以学到为什么要使用外生的调节变量来讨论**因果关系的作用机制**；更可以感受到作者为了**排除各种竞争性假说**所做的巧妙努力。
-
-**第 2 讲**介绍的 [Nunn and Wantchekon (2011)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Nunn_Wantchekon_2011_AER.pdf) 的论文是展示**工具变量方法各种技巧**的洋洋大观之作。该文讨论历史上的非洲奴隶贸易如何型塑了今天人际间的不信任，并用种族到海岸线的距离作为奴隶贸易强度的工具变量。文章先使用了 OLS 方法，然后评估 OLS 估计结果在多大程度上受到选择性偏误的影响；接着使用了工具变量方法，并通过“无第一阶段”**证伪检验** 和“工具变量疑似内生”证伪检验来论证工具变量的合理性；最后展示了如何通过精妙的控制来讨论因果关系的作用渠道。
-
-**第 3 讲**介绍的 [Imbens (2015)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Imbens_2015_JHR.pdf) 是由匹配方法的扛鼎人物 Imbens 所分享的关于如何正确使用匹配方法的最新指南。我们知道，匹配方法为数众多，而且可以灵活操纵的空间也很大，匹配变量的选择更是有很多讲究，这使得匹配估计的结果往往不太稳健。我们从匹配方法的工作原理讲起，深入剖析其与 OLS 的异同，向学员传达匹配方法的思想实质。然后根据 Imbens 的建议，从**样本平衡性检验**、**倾向得分估计**、样本删截、估计方法选择等各个环节逐一讲解匹配方法的操作细节。
-
-**第 4 讲**介绍的 [Aidt and Franck (2015)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Aidt_-2015-Econometrica.pdf) 是一篇在截面数据中综合运用 OLS 方法、匹配方法和工具变量方法的顶刊文献。该文讨论 1830 年代英国各地区斯温暴动的激烈程度如何形成了可置信的革命威胁，推动了代表新兴阶级的辉格党在议会势力的壮大，最终促成了改革法案的通过。从这篇文章中我们不但能够回顾之前所学内容，而且还能学到**安慰剂检验**和**证伪检验**等新的论证技巧。
-
-**第 5 讲**介绍的 [Nunn and Qian (2011)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Nunn_2011_QJE.pdf) 是一篇典型的运用连续型处理与多期双重差分方法的经典文献。该文讨论土豆这一起源于新大陆的农作物在旧大陆的推广如何促进了人口增长和城市化。文章用一国种植土豆的适宜程度作为该国接受 **“政策干预”** 的强度，用土豆在旧大陆的大规模推广来确定“政策干预”的时点。这篇文章所运用的方法比离散型处理或两期问题更具一般性，而且 **基准估计**、**灵活估计**、**滚动估计**、**变动处理时点**、**变动处理组** 等实证手段也极具借鉴意义。
-
-**第 6 讲** 介绍的 [Fowlie et al. (2012)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Fowlie_2012_AER.pdf) 是双重差分方法与匹配方法相结合（**PSM+DID**）的代表作。我们首先介绍双重差分方法与匹配方法相结合的两种模式，其一是将匹配方法视为数据预处理手段，构造匹配样本再进行双重差分估计，其二是将多期问题转换为两期问题，先构造差分结果，然后进行匹配估计。前者的重点在第3讲中已经涉及，本讲介绍的论文则是对后者的应用。文章的一大亮点是尝试对“**无溢出效应**”和“**无混淆性**”这两大基本识别假设进行了间接检验。
-
-需要特别强调的是，论文班的学习尤其要求大家要足够努力。最基本的要求是，在开课之前，要认真研读每一篇论文，了解其研究背景、研究思路、计量方法和主要结论。虽然这些论文的研究主题与诸位所在领域可能会有比较大的差异，但是，大道至简，从这些论文中主要是学习计量方法的合理应用和研究设计的思想。
+## 4. 报\名信息
+- **主办方：** 太原君泉教育咨询有限公司
+- **标准费用**(含报名费、材料费)，差旅及食宿费自理：
+  - 全价：4200 元/人
+  - 预报\名价 (6月15日前报名) 4000元/人
+  - 团报价：3600元/人（三人及以上）
+  - 学生价：3700元/人（报到时需提供学生证原件）
+- **老学员优惠：**
+  - 参加过一次主办方培训的老学员：3500元/人
+  - 参加过两次主办方培训的老学员：3200元/人
+- **友情高校感恩优惠：**  
+  我们诚挚地感谢曾经团报的高校，来自以下高校的老师和学生可享受感恩价 3400 元/人：(按首字母拼音排序) **安徽财经大学、东北林业大学、河北大学、河北经贸大学、暨南大学、金陵学院、南开大学、山西财经大学、山西大学、太原科技大学、
+运城学院、中南财经政法大学、中南大学、中山大学、中央财经大学**。
+- **Note：** 以上各项优惠不能叠加使用。
+- **联系方式：**
+  - 邮箱：[wjx004@sina.com](wjx004@sina.com)
+  - 电话 (微信同号)：王老师 18903405450 ；李老师 ‭18636102467
+  - 对公账户： 35117530000023891 (山西省太原市晋商银行南中环支行)
+ 
+- **温馨提示：** 按报\名顺序挑选\安排座位
 
 
-**最后的话**
-
-需要特别强调的是，虽然论文班的学习并不要求扎实的计量基础，但却要求大家要足够努力。最基本的要求是，在开课之前，要认真的研读每一篇论文，了解其研究背景、研究思路、计量方法和主要结论。上课过程中，我会随机抽取学员来回答一些问题。同时，也建议大家在开课前务必掌握文献的检索方法，学会使用百度学术、谷歌学术和 **Endnote** 等文献管理软件，这助于追踪我们讲解的每篇论文的后续进展，以便发掘新的研究主题。
-
-虽然这些论文的研究主题与诸位所在领域可能会有比较大的差异，但是，大道至简，从这些论文中主要是学习计量方法的合理应用和研究设计的思想。
-
-### 3.3 课程大纲
-
-![江艇主讲-Stata寒假2019-论文班课程大纲](https://upload-images.jianshu.io/upload_images/7692714-197ff73ebccd6f50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-**论文速览：**
-- [Rajan and Zingales (1998)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Rajan_Zingales_1998_AER.pdf)
-- [Nunn and Wantchekon (2011)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Nunn_Wantchekon_2011_AER.pdf)
-- [Imbens (2015)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Imbens_2015_JHR.pdf)
-- [Aidt and Franck (2015)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Aidt_-2015-Econometrica.pdf)
-- [Nunn and Qian (2011)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Nunn_2011_QJE.pdf)
-- [Fowlie et al. (2012)](https://gitee.com/arlionn/stata_training/raw/master/PDF/Fowlie_2012_AER.pdf)
+长按/扫描二维码报名：   
+![空间计量-二维码200.png](https://images.gitee.com/uploads/images/2019/0314/173716_3f6741e2_1522177.png)
 
 
-&emsp;  
-&emsp;   
-&emsp;  
+## 5. 交通和住宿
+- **校内宾馆：** [西安西工大正禾宾馆](http://62474.hotel.cthy.com/)
+- **酒店地址：** 西安 莲湖区 友谊西路127号 [[百度地图]](https://j.map.baidu.com/K28HZ)
+- 住宿小知士：
+正禾宾馆位于西北工业大学校内，上课、午休方便快捷，住宿环境可以参考以下图片：
+
+![空间计量-住宿和教室400.jpg](https://images.gitee.com/uploads/images/2019/0314/173716_7f1675da_1522177.jpeg)
+
 ---
-## 相约 2019 Stata 寒假现场班
-&emsp;
 
+![空间计量专题-海报.jpg](https://images.gitee.com/uploads/images/2019/0314/173716_890dd422_1522177.jpeg)
 
-> **时间：** 2019 年 1 月 17-27 日    
-> **地点：** 北京 中国青年政治学院      
-> **授课教师：** 连玉君 (初级+高级) || 江艇 (论文班) 
-
-
-- **Stata寒假研讨[全程班](http://www.peixun.net/view/1224.html)** 
-   - 时间地点：2019 年 1 月 17 日-27 日，北京
-   - 课程链接：[http://www.peixun.net/view/1224.html](http://www.peixun.net/view/1224.html)
-   
-- **Stata寒假研讨[初级班](http://www.peixun.net/view/308_detail.html)**
-   - 时间地点：2019 年 1 月 17 日-19 日 (三天)，北京
-   - 课程链接：[http://www.peixun.net/view/307_detail.html](http://www.peixun.net/view/307_detail.html)
-
-- **Stata寒假研讨[高级班](http://www.peixun.net/view/308_detail.html)**
-   - 时间地点：2019 年 1 月 21 日- 23 日 (三天)，北京
-   - 课程链接：[http://www.peixun.net/view/308_detail.html](http://www.peixun.net/view/308_detail.html)
-
-- **Stata寒假研讨[论文班](http://www.peixun.net/view/1135.html)**
-   - 时间地点：2019 年 1 月 25 日- 27 日 (三天)，北京
-   - 课程链接：[http://www.peixun.net/view/1135.html](http://www.peixun.net/view/1135.html)
-
-
-
-
->  &emsp;    
-> 》》》欢迎加入 [STATA学习-连享会] **QQ群 225012362**，一同学习 Stata！    
->
->》》》> 申请时，请填写如下备注信息：**Stata连享会邀请-学校简称-姓名** 。 
->  &emsp;
+---
