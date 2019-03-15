@@ -47,7 +47,7 @@
 
 可以想象，若德克萨斯州的失业率上升 10%，该州的谋杀率也必然会上升。然而，城门失火殃及池鱼，我们更关心的可能是：德州周边各州的谋杀率会如何变化呢？下面这幅 [GIF 图形](https://www.jianshu.com/p/7cc5899b85ca) 便展示了基于空间自回归（SAR）模型估计出的空间溢出效应。
 
-![德州失业率上升 10% 后其他州谋杀率的动态变化](https://upload-images.jianshu.io/upload_images/7692714-8ffc0169be6a640a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/728/format/webp "空间溢出效应：德州失业率上升 10% 后其他州谋杀率的动态变化")
+![德州失业率上升 10% 后其他州谋杀率的动态变化](https://upload-images.jianshu.io/upload_images/7692714-0ae49bf10e4dda67.gif?imageMogr2/auto-orient/strip "空间溢出效应：德州失业率上升 10% 后其他州谋杀率的动态变化")
 
 显然，在国际贸易、财政支出、区域创新、产业集聚、能源消费、环境污染、公司金融等诸多领域都存在这种空间相关或空间溢出效应。得益于空间计量经济学在过去几十年的快速发展，上述话题得以深入挖掘。
 
