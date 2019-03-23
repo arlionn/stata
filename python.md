@@ -38,7 +38,7 @@ Asian and Low-Resource Language Information Processing 、Journal of Integrative
 &emsp;
 
 >- 为什么要学爬虫和文本分析？
->- 什么要学机器学习算法？
+>- 为什么要学机器学习算法？
 >- 为什么要学 Python 语言？
 >- 我们将学到什么？
 
