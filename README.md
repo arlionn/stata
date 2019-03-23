@@ -24,7 +24,7 @@
 &emsp;
 
 ---
-### B、[空间计量专题](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E7%A9%BA%E9%97%B4%E8%AE%A1%E9%87%8F%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD%20(2019.6.27-30).md) (6月，西安)
+### B. [空间计量专题](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E7%A9%BA%E9%97%B4%E8%AE%A1%E9%87%8F%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD%20(2019.6.27-30).md) (6月，西安)
 - **时间地点：** 2019年6月27-30日；西安-西北工业大学
 - **主讲嘉宾**：杨海生 (中山大学)，第 1-4 讲；杨超 (上海财经大学)，第 5-8 讲
 - **软件：** Matlab + Stata
