@@ -5,7 +5,7 @@
 
 > - [Python 爬虫与文本分析](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-Python%E7%88%AC%E8%99%AB%E4%B8%8E%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD.md) (5月，太原)    
 > - [空间计量专题](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E7%A9%BA%E9%97%B4%E8%AE%A1%E9%87%8F%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD%20(2019.6.27-30).md) (6月，西安)
-
+> - [诚邀 2019 现场班助教-连享会](https://gitee.com/arlionn/Course/blob/master/%E5%8A%A9%E6%95%99%E6%8B%9B%E8%81%98/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E8%AF%9A%E9%82%80%202019%20%E7%8E%B0%E5%9C%BA%E7%8F%AD%E5%8A%A9%E6%95%99.md) (截止时间：2019年4月15日)
 
 
 &emsp;
