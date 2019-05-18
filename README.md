@@ -1,45 +1,61 @@
-## 连享会 2019 现场班
-
-&emsp;
 
 
-> - [Python 爬虫与文本分析](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-Python%E7%88%AC%E8%99%AB%E4%B8%8E%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD.md) (5月，太原)    
-> - [空间计量专题](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E7%A9%BA%E9%97%B4%E8%AE%A1%E9%87%8F%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD%20(2019.6.27-30).md) (6月，西安)
-> - [诚邀 2019 现场班助教-连享会](https://gitee.com/arlionn/Course/blob/master/%E5%8A%A9%E6%95%99%E6%8B%9B%E8%81%98/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E8%AF%9A%E9%82%80%202019%20%E7%8E%B0%E5%9C%BA%E7%8F%AD%E5%8A%A9%E6%95%99.md) (截止时间：2019年4月15日)
 
 
 &emsp;
-
-
 ---
-### A. [Python 爬虫与文本分析](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-Python%E7%88%AC%E8%99%AB%E4%B8%8E%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD.md) (5月，太原)
+> ### 连享会 2019 现场班
 
-- **时间地点：** 2019年5月17-19日；山西大学-学术交流中心
-- **主讲嘉宾：** 司继春-[[知乎-慧航]](https://www.zhihu.com/people/sijichun/columns) (第1-3讲)；刘老师 (第 4-6 讲)
-- **课程要点：** 学会用 Python 进行网络爬虫和文本分析；掌握常用机器学习算法的原理和 Python 实现。
-- **软件\语言：** Python
-- **课程主页：** [连享会-Python 爬虫与文本分析](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-Python%E7%88%AC%E8%99%AB%E4%B8%8E%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD.md) 
+&emsp;
+
+
+> #### [2019暑期Stata现场班](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md) (7月，北京)    
+> #### [空间计量专题](https://gitee.com/arlionn/Course/blob/master/Spatial.md) (6月，西安)
 
 
 &emsp;
 
 ---
-### B. [空间计量专题](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E7%A9%BA%E9%97%B4%E8%AE%A1%E9%87%8F%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD%20(2019.6.27-30).md) (6月，西安)
+### A. [2019暑期Stata现场班](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md) 
+
+- **时间：** 2019 年 7 月 17-26 日    
+- **地点：** 北京 首都师范大学-国际文化大厦    
+- **授课嘉宾：** 初级+高级：连玉君 (6天)  ||  论文班：刘瑞明(1天)+连玉君(2天)
+- **课程要点：** 突破实证分析的心里障碍，掌握规范研究的核心方法和分析思路。
+- **软件：** Stata
+- **报名主页：** [2019暑期Stata现场班](http://www.peixun.net/view/1224.html) 
+
+
+&emsp;
+
+---
+### B、[空间计量专题](https://gitee.com/arlionn/Course/blob/master/Spatial.md) (6月，西安)
 - **时间地点：** 2019年6月27-30日；西安-西北工业大学
 - **主讲嘉宾**：杨海生 (中山大学)，第 1-4 讲；杨超 (上海财经大学)，第 5-8 讲
 - **软件：** Matlab + Stata
 - **课程要点：** 空间计量模型的基本思想；各类空间权重的设定；静态和动态空间面板模型、面板 Probit\Tobit 模型、引力模型的估计和检验；配以 20 余篇 Top 期刊论文范文实操展示。   
-- **课程主页：** [连享会-空间计量专题研讨班](https://github.com/arlionn/stata/blob/master/%E8%BF%9E%E4%BA%AB%E4%BC%9A-%E7%A9%BA%E9%97%B4%E8%AE%A1%E9%87%8F%E4%B8%93%E9%A2%98%E7%A0%94%E8%AE%A8%E7%8F%AD%20(2019.6.27-30).md) 
+- **课程主页：** [连享会-空间计量专题研讨班](https://gitee.com/arlionn/Course/blob/master/Spatial.md) 
 
 
 &emsp;
 
-&emsp;
 
 ---
 
+[![连享会-空间计量现场班 (2019年6月27-30日，西安)](https://gitee.com/uploads/images/2019/0425/110649_b7c725a4_1522177.jpeg "连享会-空间计量现场班 (2019年6月27-30日，西安)")](https://gitee.com/arlionn/Course/blob/master/Spatial.md)
 
-![连享会-Python爬虫与文本分析现场班 (2019年5月17-19日，太原)](https://images.gitee.com/uploads/images/2019/0322/171746_c9bb08a3_1522177.jpeg "连享会-Python爬虫与文本分析现场班 (2019年5月17-19日，太原)")
 
-![连享会-空间计量现场班 (2019年6月27-30日，西安)](https://images.gitee.com/uploads/images/2019/0322/171746_c2d63d20_1522177.jpeg "连享会-空间计量现场班 (2019年6月27-30日，西安)")
+&emsp;
 
+> ### [Stata连享会推文列表 (完整)](https://www.jianshu.com/p/de82fdc2c18a)
+
+- [Stata 相关书籍\课本汇总](https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/f1c4b8762709)
+- [Stata帮助和网络资源汇总(持续更新中)](https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/c723bb0dbf98)
+- [Stata: 外部命令的搜索、安装与使用](http://www.jianshu.com/p/9b8ecf8f332e)
+- [盈余管理、过度投资怎么算？分组回归获取残差](https://www.jianshu.com/p/73bc73a87d6c)
+- [asdoc：Stata 结果输出又一利器！](http://www.jianshu.com/p/e4ddcd06f8ae)
+- [Stata：回归结果中不报告行业虚拟变量的系数](https://www.jianshu.com/p/85f09d645862)
+- [君生我未生！Stata - 论文四表一键出](https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/97c4f291ee1e)
+- [加入交乘项后符号变了!?](http://www.jianshu.com/p/953f30f39195)
+- [Stata: 面板数据模型-一文读懂](http://www.jianshu.com/p/e103270ce674)
+- [Stata：双重差分的固定效应模型 (DID)](https://www.jianshu.com/p/e97c1dc05c2c)
