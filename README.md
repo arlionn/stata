@@ -8,15 +8,30 @@
 
 &emsp;
 
+> - [学术论文专题](https://gitee.com/arlionn/Course/blob/master/2019Papers.md) (8月17-23，西安)
+> &emsp;
+> - [2019暑期Stata现场班](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md) (7月17-26，北京)，[助教名单公布](https://gitee.com/arlionn/Course/blob/master/%E5%8A%A9%E6%95%99%E6%8B%9B%E8%81%98/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD%E5%8A%A9%E6%95%99%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83.md)    
+> 
+> - [空间计量专题](https://gitee.com/arlionn/Course/blob/master/Spatial.md) (6月，西安)
 
-> #### [2019暑期Stata现场班](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md) (7月，北京)    
-> #### [空间计量专题](https://gitee.com/arlionn/Course/blob/master/Spatial.md) (6月，西安)
+
+&emsp;
+
+
+---
+#### A. [学术论文专题研讨班](https://gitee.com/arlionn/Course/blob/master/2019Papers.md)  (8月，西安)
+- **时间地点：** 2019年8月17-23日；西安-西北工业大学  
+- **主讲嘉宾**：连玉君 (中山大学，专题 T1-T6)；江艇 (中国人民大学，专题 T7-T12)
+- **授课内容：** 实证研究方法与经典论文 (9 篇) 重现
+  - **课程要点：** 研究设计、稳健性检验、内生性问题及论文的写作。
+  - **主要方法：** IV 估计、匹配 (Matching)、倍分法 (DID)、Matching+DID、双向固定效应模型、动态面板数据模型等
+- **课程主页：** [连享会-2019暑期学术论文研讨班](https://gitee.com/arlionn/Course/blob/master/2019Papers.md) 
 
 
 &emsp;
 
 ---
-### A. [2019暑期Stata现场班](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md) 
+#### B. [2019暑期Stata现场班](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md)  （7月，北京）
 
 - **时间：** 2019 年 7 月 17-26 日    
 - **地点：** 北京 首都师范大学-国际文化大厦    
@@ -29,7 +44,7 @@
 &emsp;
 
 ---
-### B、[空间计量专题](https://gitee.com/arlionn/Course/blob/master/Spatial.md) (6月，西安)
+#### C. [空间计量专题](https://gitee.com/arlionn/Course/blob/master/Spatial.md) (6月，西安)
 - **时间地点：** 2019年6月27-30日；西安-西北工业大学
 - **主讲嘉宾**：杨海生 (中山大学)，第 1-4 讲；杨超 (上海财经大学)，第 5-8 讲
 - **软件：** Matlab + Stata
@@ -37,12 +52,17 @@
 - **课程主页：** [连享会-空间计量专题研讨班](https://gitee.com/arlionn/Course/blob/master/Spatial.md) 
 
 
+
+
 &emsp;
 
 
 ---
+[![2019暑期Stata现场班，7.17-26日，北京，连玉君+刘瑞明 主讲](http://upload-images.jianshu.io/upload_images/7692714-2e573f9e9302e8f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "imgNum_5102103")](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md)
 
-[![连享会-空间计量现场班 (2019年6月27-30日，西安)](https://gitee.com/uploads/images/2019/0425/110649_b7c725a4_1522177.jpeg "连享会-空间计量现场班 (2019年6月27-30日，西安)")](https://gitee.com/arlionn/Course/blob/master/Spatial.md)
+&emsp;
+
+[![2019暑期论文班-连玉君-江艇主讲](https://images.gitee.com/uploads/images/2019/0622/184256_8d116938_1522177.jpeg)](https://gitee.com/arlionn/Course/blob/master/2019Papers.md)
 
 
 &emsp;
