@@ -56,17 +56,7 @@
 
 &emsp;
 
-
 ---
-[![2019暑期Stata现场班，7.17-26日，北京，连玉君+刘瑞明 主讲](http://upload-images.jianshu.io/upload_images/7692714-2e573f9e9302e8f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "imgNum_5102103")](https://gitee.com/arlionn/Course/blob/master/2019%E6%9A%91%E6%9C%9FStata%E7%8E%B0%E5%9C%BA%E7%8F%AD.md)
-
-&emsp;
-
-[![2019暑期论文班-连玉君-江艇主讲](https://images.gitee.com/uploads/images/2019/0622/184256_8d116938_1522177.jpeg)](https://gitee.com/arlionn/Course/blob/master/2019Papers.md)
-
-
-&emsp;
-
 > ### [Stata连享会推文列表 (完整)](https://www.jianshu.com/p/de82fdc2c18a)
 
 - [Stata 相关书籍\课本汇总](https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/f1c4b8762709)
