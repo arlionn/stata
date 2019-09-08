@@ -9,7 +9,7 @@
 > ### 连享会 现场班-精品课程
   
  
-> - A. [2019金秋十月-空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)（10月24-27日，成都；杨海生主讲）    
+> - A. [空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)（10月24-27日，成都；杨海生主讲）    
 > &emsp;  掌握一个新的工具，开启一扇新的大门 
 > &emsp;    
 > - B. [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md) (11月14-17日，南京；林建浩、王群勇主讲)      
@@ -36,7 +36,7 @@
 - **主要方法：** 传统 **IV** 估计；弱 IV 和近似外生 IV；**面板**数据模型；倍分法 (**DID**)：DID, 动态 DID 及三重差分 (DDD)；断点回归 (**RDD**)；倾向得分匹配分析 (**PSM**)；**处理效应**模型 (Treatment Effect model)；内生 Probit/Logit 等
 - **软件和课件：** 本次培训使用 Stata 软件。课程中涉及的所有数据、程序和论文实现代码，会在开课前一周发送给学员。
 - **课程主页：** [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md) 
-[![连享会-内生性专题班-报名页-2019.11.14-17](https://images.gitee.com/uploads/images/2019/0905/170217_afd8b343_1522177.png)](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)
+[![连享会-内生性专题班-报名页-2019.11.14-17](https://images.gitee.com/uploads/images/2019/0908/155222_62e4c77b_1522177.png)](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)
 
 
 &emsp;
