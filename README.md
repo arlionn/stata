@@ -32,8 +32,9 @@
 - **课程要点：** 整体上遵循 **「从文献中来，到论文中去」** 的原则。结合 Top 期刊论文 (AER, JPE, QJE, JoE, JF 等) 讲解目前主流的内生性问题应对方法和模型。在理解理论的基础上，通过 Stata 实操和论文解读来加强对模型的理解和应用。
 - **主要方法：** 传统 **IV** 估计；弱 IV 和近似外生 IV；**面板**数据模型；倍分法 (**DID**)：DID, 动态 DID 及三重差分 (DDD)；断点回归 (**RDD**)；倾向得分匹配分析 (**PSM**)；**处理效应**模型 (Treatment Effect model)；内生 Probit/Logit 等
 - **软件和课件：** 本次培训使用 Stata 软件。课程中涉及的所有数据、程序和论文实现代码，会在开课前一周发送给学员。
-- **课程主页：** [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md) 
-[![连享会-内生性专题班-报名页-2019.11.14-17](https://images.gitee.com/uploads/images/2019/0908/155222_62e4c77b_1522177.png)](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)
+- **课程主页：** [内生性专题现场班](https://mp.weixin.qq.com/s/FWpF5tE68lAtCEvYUOnNgw) 
+
+[![连享会-内生性专题现场班-2019.11.14-17](https://img-blog.csdnimg.cn/20190909145721712.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FybGlvbm4=,size_16,color_FFFFFF,t_70)](https://mp.weixin.qq.com/s/FWpF5tE68lAtCEvYUOnNgw)
 
 
 &emsp;
@@ -48,9 +49,7 @@
 
 > 扫码报名：
 
-![2020寒假Stata现场班报名二维码](https://images.gitee.com/uploads/images/2019/1023/230506_11cf307f_1522177.png "屏幕截图.png")
-
-
+![2020寒假Stata现场班报名二维码](https://upload-images.jianshu.io/upload_images/7692714-87afacb49a6928ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ---
