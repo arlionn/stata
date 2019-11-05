@@ -8,27 +8,24 @@
 ---
 > ### 连享会 现场班-精品课程
   
- 
-> - A. [空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)（10月24-27日，成都；杨海生主讲）    
-> &emsp;  掌握一个新的工具，开启一扇新的大门 
-> &emsp;    
-> - B. [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md) (11月14-17日，南京；林建浩、王群勇主讲)      
+    
+> - [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md) (11月14-17日，南京；林建浩、王群勇主讲)      
 > &emsp;  让我爱恨交织的内生性！
 > &emsp;    
-> - C. [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) (2020年1月8-18日，北京；连玉君、江艇主讲)       
+> - [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) (2020年1月8-17日，北京；连玉君、江艇主讲)       
 > &emsp; 完整的知识架构是你长期成长的动力源泉……
 
 
 &emsp;
 
 > **即将发布：**
-  - 2019.12  西安，4天，**爬虫和文本分析专题班**，主讲嘉宾：司继春(上海对外经贸大学)；游万海(福州大学)
+  - 4 天，**爬虫和文本分析专题班**，主讲嘉宾：司继春(上海对外经贸大学)；游万海(福州大学)
 
 
 &emsp;
 
 
-#### A. [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md)   
+### A. [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md)   
 - **时间地点：** 2019 年 11 月 14-17 日 (周四-周日)，南京财经大学福州路校区
 - **主讲嘉宾：** 林建浩 (中山大学)；王群勇 (南开大学)
 - **课程主题：** 内生性问题及估计方法
@@ -42,25 +39,19 @@
 &emsp;
 
 ---
-#### B. [2019金秋十月-空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md) 
-- **时间地点：** 2019年10月24-27日；成都-电子科技大学  
-- **主讲嘉宾**：杨海生 (中山大学)
-- **授课内容：** 空间计量模型的设定、估计以及相应的实证应用
-- **课程要点：** 空间计量模型的基本架构、空间滞后模型、空间面板模型、 空间 Probit 和 空间 Tobit 模型等。
-- **课程主页：** [2019金秋十月-空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)  
-[![](https://images.gitee.com/uploads/images/2019/0808/092532_147eaf7f_1522177.png)](https://mp.weixin.qq.com/s/aU6B9HZaf2BSHF7lSLe6LA)
-
-&emsp;
-
----
-#### C. [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md)  
-- **时间地点：** 2020年1月8-18日；北京-海淀区
-- **主讲嘉宾**：连玉君 (中山大学，初级+高级)；江艇 (中央财经大学，论文班)
+### B. [2020寒假Stata现场班](https://mp.weixin.qq.com/s/Yg3UMJj1JLlYoz6D-SAGow)  
+- **时间地点：** 2020年1月8-17日；北京-海淀区
+- **主讲嘉宾**：连玉君 (中山大学，初级+高级)；江艇 (中国人民大学，论文班)
 - **授课内容：** 全面介绍 Stata 数据处理、编程、主流计量方法，通过剖析经典论文掌握论文写作方法
   - **课程要点：** 模型设定、交乘项、静态和动态面板数据模型、面板门槛模型、内生性专题 (DID, PSM, RDD)，合成控制法，Probit模型等。
-- **课程主页：** [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) 
+- **课程主页：** [2020寒假Stata现场班](https://mp.weixin.qq.com/s/Yg3UMJj1JLlYoz6D-SAGow) 
 
-&emsp;
+> 扫码报名：
+
+![2020寒假Stata现场班报名二维码](https://images.gitee.com/uploads/images/2019/1023/230506_11cf307f_1522177.png "屏幕截图.png")
+
+
+
 
 ---
 
