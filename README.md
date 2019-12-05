@@ -8,49 +8,54 @@
 ---
 > ### 连享会 现场班-精品课程
   
-    
-> - [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md) (11月14-17日，南京；林建浩、王群勇主讲)      
-> &emsp;  让我爱恨交织的内生性！
-> &emsp;    
-> - [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) (2020年1月8-17日，北京；连玉君、江艇主讲)       
+> #### A. [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) 
+> **时间地点：** 2020年1月8-17日，北京         
+> **主讲嘉宾：** 连玉君 (中山大学)；江艇 (中国人民大学)                   
 > &emsp; 完整的知识架构是你长期成长的动力源泉……
 
 
+
+> #### B. [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md)   
+> **时间地点：** 2020年3月26-29日，西安-西北工业大学     
+> **主讲嘉宾：** 司继春(上海对外经贸大学)；游万海(福州大学)
+
+
 &emsp;
 
-> **即将发布：**
-  - 4 天，**爬虫和文本分析专题班**，主讲嘉宾：司继春(上海对外经贸大学)；游万海(福州大学)
 
 
+
+---
+### A. [2020寒假Stata现场班](https://mp.weixin.qq.com/s/-dFPrGQMhH3JzA4tEc35kQ)  
+- **时间地点：** 2020年1月8-17日；北京-海淀区
+- **主讲嘉宾**：连玉君 (中山大学，初级+高级)；江艇 (中国人民大学，论文班)
+- **授课内容：** 全面介绍 Stata 数据处理、编程、主流计量方法，通过剖析经典论文掌握论文写作方法。主要涵盖如下方法和模型：模型设定、交乘项、静态和动态面板数据模型、面板门槛模型、内生性专题 (DID, PSM, RDD)，合成控制法，Probit模型等。
+- **课程主页：** [2020寒假Stata现场班](http://www.peixun.net/view/1224.html) ， [「微信版-课程介绍」](https://mp.weixin.qq.com/s/-dFPrGQMhH3JzA4tEc35kQ)
+- [「+助教招聘」](https://zhuanlan.zhihu.com/p/91621242)
 &emsp;
 
-
-### A. [内生性专题现场班](https://gitee.com/arlionn/Course/blob/master/Done/2019Endog.md)   
-- **时间地点：** 2019 年 11 月 14-17 日 (周四-周日)，南京财经大学福州路校区
-- **主讲嘉宾：** 林建浩 (中山大学)；王群勇 (南开大学)
-- **课程主题：** 内生性问题及估计方法
-- **课程要点：** 整体上遵循 **「从文献中来，到论文中去」** 的原则。结合 Top 期刊论文 (AER, JPE, QJE, JoE, JF 等) 讲解目前主流的内生性问题应对方法和模型。在理解理论的基础上，通过 Stata 实操和论文解读来加强对模型的理解和应用。
-- **主要方法：** 传统 **IV** 估计；弱 IV 和近似外生 IV；**面板**数据模型；倍分法 (**DID**)：DID, 动态 DID 及三重差分 (DDD)；断点回归 (**RDD**)；倾向得分匹配分析 (**PSM**)；**处理效应**模型 (Treatment Effect model)；内生 Probit/Logit 等
-- **软件和课件：** 本次培训使用 Stata 软件。课程中涉及的所有数据、程序和论文实现代码，会在开课前一周发送给学员。
-- **课程主页：** [内生性专题现场班](https://mp.weixin.qq.com/s/FWpF5tE68lAtCEvYUOnNgw) 
-
-[![连享会-内生性专题现场班-2019.11.14-17](https://img-blog.csdnimg.cn/20190909145721712.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FybGlvbm4=,size_16,color_FFFFFF,t_70)](https://mp.weixin.qq.com/s/FWpF5tE68lAtCEvYUOnNgw)
+[![2020寒假Stata现场班](https://images.gitee.com/uploads/images/2019/1114/084141_b50efd9f_1522177.jpeg "2020寒假Stata现场班-扫码了解详情")](https://mp.weixin.qq.com/s/-dFPrGQMhH3JzA4tEc35kQ)
 
 
 &emsp;
 
 ---
-### B. [2020寒假Stata现场班](https://mp.weixin.qq.com/s/Yg3UMJj1JLlYoz6D-SAGow)  
-- **时间地点：** 2020年1月8-17日；北京-海淀区
-- **主讲嘉宾**：连玉君 (中山大学，初级+高级)；江艇 (中国人民大学，论文班)
-- **授课内容：** 全面介绍 Stata 数据处理、编程、主流计量方法，通过剖析经典论文掌握论文写作方法
-  - **课程要点：** 模型设定、交乘项、静态和动态面板数据模型、面板门槛模型、内生性专题 (DID, PSM, RDD)，合成控制法，Probit模型等。
-- **课程主页：** [2020寒假Stata现场班](https://mp.weixin.qq.com/s/Yg3UMJj1JLlYoz6D-SAGow) 
+### B. [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md)   
+- **时间：** 2020 年 3 月 26-29 日 (周四-周日)
+- **时段：** 上午 9:00-12:00；下午 14:00-17:00，答疑：17:00-17:30
+- **地点：** 西安，西北工业大学国际会议中心  ([百度地图](https://j.map.baidu.com/yXIiP) | [搜狗地图](http://map.sogou.com/u/MvmiOn))
+- **主讲嘉宾：** 游万海 (第 1-4 讲)；司继春 (第 5-8 讲)
+- **授课内容：** 文本分析与爬虫
+  - **课程要点：** 本课程主要介绍正则表达式相关语法规则及非结构化数据处理；讲解 Python 的基础知识，并使用 Python 进行数据处理、数值计算、网络爬虫、文本分析等不同任务的处理；介绍机器学习常用算法，如决策树、随机森林、支持向量机以及神经网络等的基本原理，并使用 Python 实现各类算法。
+  - **主要方法：** Python, Scipy, Numpy, Pandas, Matplotlib, Plotly, BeautifulSoup, Request, Selenium, Scikit-learn, TensorFlow, Jieba, NLTK, gensim等。
+- **主要软件\语言：** Stata, Python
+- **课程主页(含助教招聘)：** [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md) || 「[微信版大纲](http://mp.weixin.qq.com/s?__biz=MzAwMzk4ODUzOQ==&mid=2247486963&idx=1&sn=ed6e2b77be6977bcb723f12bebaa3e26&chksm=9b3380a7ac4409b186fa06a2133d3799e8697893caef53fc0f07c204b2f0d850d671d340d9a5&scene=21#wechat_redirect)」
 
-> 扫码报名：
+![连享会-文本分析与爬虫专题班，西北工业大学，2020.3.26-29](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会2020.3文本分析海报.png "连享会-文本分析现场班，西北工业大学，2020.3.26-29")
 
-![2020寒假Stata现场班报名二维码](https://upload-images.jianshu.io/upload_images/7692714-87afacb49a6928ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
+&emsp;
 
 ---
 
