@@ -35,7 +35,7 @@
 - **时段：** 上午 9:00-12:00；下午 14:00-17:00，答疑：17:00-17:30
 - **授课方式：** 网络直播。缴费后主办方发送邀请码，点击邀请码即可进入在线课堂，收看直播无需安装任何软件。
 - **主讲嘉宾：** 游万海 (Part A: 第 1-4 讲)；司继春 (Part B: 第 5-8 讲)
-- **课程主页：** [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md), [微信版-tbd]()
+- **课程主页：** [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md), || [微信版](https://mp.weixin.qq.com/s/s_gaglmdKB46yFfy3-fwrg)
 
 #### 课程提要
 
