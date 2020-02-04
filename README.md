@@ -1,33 +1,20 @@
 
 &emsp;
  
-> Stata 连享会： [知乎](https://zhuanlan.zhihu.com/arlion) | [简书](http://www.jianshu.com/u/69a30474ef33) | [码云](https://gitee.com/arlionn) | [CSDN](https://blog.csdn.net/arlionn)
 
-
-> ### 连享会Live - 我的特斯拉-实证研究设计
-
-- **听课方式：** 直播/回放 (可以通过手机、iPad、电脑观看)。购买后可以随时观看。附 6 篇 Top 期刊论文的完整重现过程。
-- **直播嘉宾**：连玉君 (中山大学)
-- **费用**：88 元。
-- **听课链接**： <https://efves.duanshu.com/#/brief/live/3mk2nm4124k9>
-- **课程主页：** <https://gitee.com/arlionn/Live> 
-
-
-
-&emsp;
 
 
 
 ---
-> ### 连享会 现场班-精品课程
+> ### 连享会 精品课程
   
-> #### A. [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md)   
+> A. [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md)  
+> B. [我的特斯拉-实证研究设计](https://mp.weixin.qq.com/s/NGwsr92_Vr1DGRbVqDVQIA)
 
 
 &emsp;
 
 
----
 ### A. [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md)   
 - **时间：** 
   - **Part A：** 游万海主讲，2020 年 3月28-29日 (周六、周日)
@@ -35,7 +22,7 @@
 - **时段：** 上午 9:00-12:00；下午 14:00-17:00，答疑：17:00-17:30
 - **授课方式：** 网络直播。缴费后主办方发送邀请码，点击邀请码即可进入在线课堂，收看直播无需安装任何软件。
 - **主讲嘉宾：** 游万海 (Part A: 第 1-4 讲)；司继春 (Part B: 第 5-8 讲)
-- **课程主页：** [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md), || [微信版](https://mp.weixin.qq.com/s/s_gaglmdKB46yFfy3-fwrg)
+- **课程主页：** [连享会-文本分析与爬虫专题班](https://gitee.com/arlionn/Course/blob/master/Done/2020Text.md) || [微信版](https://mp.weixin.qq.com/s/s_gaglmdKB46yFfy3-fwrg)
 
 #### 课程提要
 
@@ -49,17 +36,29 @@
 - **电子板书**：全程电子板书演示，课后分享；听课更专注，复习更高效。
 - **电子讲义**：分享全套电子版课件 (数据、程序和论文)，课程中的方法和代码都可以快速移植到自己的论文中。
 
----
-> **课程大纲 PDF：**     
-> <https://quqi.gblhgk.com/s/880197/YvkIskOPpc2lnqxM>
->  &emsp;    
-> 或扫码在线浏览
->
-> <img style="width: 150px" src="https://images.gitee.com/uploads/images/2020/0202/172921_b9ee437f_1522177.png">
+
+![连享会-文本分析与爬虫专题-4天直播](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/lan-文本分析-海报.png "连享会-文本分析与爬虫-4天直播，2020.3.28-29，4.4-5")
 
 &emsp;
 
 ---
+### B. 连享会Live - [我的特斯拉-实证研究设计](https://mp.weixin.qq.com/s/NGwsr92_Vr1DGRbVqDVQIA)
+
+- **听课方式：** 可以通过手机、iPad、电脑在线观看、学习。附带 6 篇 Top 期刊的 Stata 实现过程，涉及 PSM+DID，RDD 等方法。
+- **直播嘉宾**：连玉君 (中山大学)
+- **费用/时长**：88 元 (2 小时 20 分)。
+- **报名**：扫描二维码，或直接点击 [[听课链接]](https://efves.duanshu.com/#/brief/course/5ae82756cc1b478c872a63cbca4f0a5e?classId=423589)。
+- **课程主页：** <https://gitee.com/arlionn/Live> 
+
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/海报-研究设计回放-短书-特斯拉.png)
+
+&emsp;
+
+
+---
+
+> Stata 连享会： [知乎](https://zhuanlan.zhihu.com/arlion) | [简书](http://www.jianshu.com/u/69a30474ef33) | [码云](https://gitee.com/arlionn) | [CSDN](https://blog.csdn.net/arlionn)
+
 
 > ### [Stata连享会推文列表 (完整)](https://www.jianshu.com/p/de82fdc2c18a)
 
