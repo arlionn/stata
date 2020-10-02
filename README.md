@@ -16,7 +16,6 @@
 
 ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/因果推断横幅海报-白600.png)
 
-&emsp;
 
 >  **空间计量 专题** &emsp; &#x231A; 2020.12.10-13   
 >  主讲：杨海生 (中山大学)；范巧 (兰州大学)   
