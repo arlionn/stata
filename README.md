@@ -12,7 +12,7 @@
 >  **因果推断-内生性 专题** &emsp; &#x231A; 2020.11.12-15  
 >  主讲：王存同 (中央财经大学)；司继春(上海对外经贸大学)   
 >  [课程主页](https://www.lianxh.cn/news/f5626bc0e4992.html)：<https://gitee.com/arlionn/YG>    
->  ${\color{red}{诚邀助教 10 名}}$，详见课程主页。   
+>  <font color=red>**诚邀助教 10 名**</font>，详见课程主页。  
 
 ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/因果推断横幅海报-白600.png)
 
@@ -21,7 +21,7 @@
 >  **空间计量 专题** &emsp; &#x231A; 2020.12.10-13   
 >  主讲：杨海生 (中山大学)；范巧 (兰州大学)   
 >  [课程主页](https://www.lianxh.cn/news/ff14d1cbb3500.html)：<https://gitee.com/arlionn/SP>   
->  ${\color{red}{诚邀助教 10 名}}$，详见课程主页。     
+>  <font color=red>**诚邀助教 10 名**</font>，详见课程主页。     
 
 ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/空间计量横幅海报600.png)
 
