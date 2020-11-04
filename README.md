@@ -1,36 +1,55 @@
 
 &emsp;
 
+> Stata连享会 &ensp;   📍[主页](https://www.lianxh.cn/news/46917f1076104.html)  || [视频](http://lianxh.duanshu.com) || [推文](https://www.lianxh.cn/news/d4d5cd7220bc7.html) || [知乎](https://www.zhihu.com/people/arlionn/) 
 
-> ##### 导航： 📍 [连享会主页](https://www.lianxh.cn)  &ensp;  📍 [知乎专栏](https://www.zhihu.com/people/arlionn/)  &ensp;  📍 [公众号推文](https://mp.weixin.qq.com/mp/homepage?__biz=MzAwMzk4ODUzOQ==&hid=2&sn=07017b31da626e2beab0332f5aa5f9e2) 
+> &#x1F449;  &#x1F34E;  点击右上角的【**Fork**】按钮，可以把这个项目完整复制到你的码云账号下，随时查看。 
 
-----
-
-
-## 最新课程
-
->  **因果推断-内生性 专题** &emsp; &#x231A; 2020.11.12-15  
->  主讲：王存同 (中央财经大学)；司继春(上海对外经贸大学)   
->  [课程主页](https://www.lianxh.cn/news/f5626bc0e4992.html)：<https://gitee.com/arlionn/YG>    
->  <font color=red>**诚邀助教 10 名**</font>，详见课程主页。  
-
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/因果推断横幅海报-白600.png)
-
-
->  **空间计量 专题** &emsp; &#x231A; 2020.12.10-13   
->  主讲：杨海生 (中山大学)；范巧 (兰州大学)   
->  [课程主页](https://www.lianxh.cn/news/ff14d1cbb3500.html)：<https://gitee.com/arlionn/SP>   
->  <font color=red>**诚邀助教 10 名**</font>，详见课程主页。     
-
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/空间计量横幅海报600.png)
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会-草料主页-一码平川600.png)
 
 &emsp;
 
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
+
+## 1. 最新课程
+
+### 免费公开课：Stata小白的取经之路 
+> **分享嘉宾：** 龙志能 (上海财经大学博士生)    
+> &#x231A; 2020.11.10 19:00-20:00，费用：0.0 元   
+> **课程主页：** <https://gitee.com/arlionn/StataBin> 
+
+&emsp;
+
+### 因果推断/内生性 专题
+
+>  &#x231A; 2020.11.12-15  
+>  **主讲：** 王存同 (中央财经大学)；司继春(上海对外经贸大学)   
+>  [**课程主页**](https://www.lianxh.cn/news/f5626bc0e4992.html)：<https://gitee.com/arlionn/YG>        
+
+&emsp;
+
+### Stata数据清洗第二季
+
+> &#x231A; 2020.11.28 19:00-21:00，费用：88元      
+>  **主讲：** 游万海 (福州大学)   
+> **课程主页：** <https://gitee.com/arlionn/dataclean>    
+
+&emsp;
+
+### 空间计量 专题
+>  **空间计量：前言方法和文献解读**    
+> &#x231A; 2020.12.10-13   
+>  **主讲：** 杨海生 (中山大学)；范巧 (兰州大学)   
+>  [**课程主页**](https://www.lianxh.cn/news/ff14d1cbb3500.html)：<https://gitee.com/arlionn/SP>    
 
 
 &emsp;
 
-## 视频公开课
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
+
+## 2. 资源分享
+
+### 视频公开课
 
 - [连享会码云：100多个精选计量项目](https://www.lianxh.cn/news/944a69d75cec9.html) |  [新浪视频](https://weibo.com/tv/show/1034:4479228373303338)
 - [五分钟 Markdown]() | [新浪视频](https://weibo.com/tv/show/1034:4484204327796746)
@@ -39,9 +58,7 @@
 - [直击面板数据模型](http://lianxh-pc.duanshu.com/course/detail/7d1d3266e07d424dbeb3926170835b38) - 连玉君，时长：1小时40分钟
 - [Stata 33 讲](http://lianxh-pc.duanshu.com/course/detail/b22b17ee02c24015ae759478697df2a0) - 连玉君, 每讲 15 分钟. 
 
-
-
-## Stata
+### Stata
 
 - [连享会推文](https://www.lianxh.cn) | [直播视频](http://lianxh.duanshu.com)
 - **计量专题课程**: [Stata暑期班/寒假班](https://gitee.com/arlionn/PX) | [专题课程](https://gitee.com/arlionn/Course)
@@ -49,7 +66,7 @@
 - Books and Journal: [计量Books](https://quqi.gblhgk.com/s/880197/hmpmu2ylAcvHnXwY) | [SJ-PDF](https://quqi.gblhgk.com/s/880197/eipgoUi6Gd1FDZRu) | [Stata Journal-在线浏览](https://www.lianxh.cn/news/12ffe67d8d8fb.html)
 - Stata Guys：[Ben Jann](http://www.soz.unibe.ch/about_us/personen/prof_dr_jann_ben/index_eng.html) 
 
-## Data
+### Data
 - [CSMAR-国泰安](http://www.gtarsc.com/#/datacenter/singletable) | [Wind-万德](https://www.wind.com.cn/Default.html) | [Resset-锐思](http://www.resset.cn/databases)
 - [常用数据库](https://www.lianxh.cn/news/0b65fd5165c2c.html) 
 - [人文社科开放数据库](https://www.lianxh.cn/news/6f06c914acde8.html) 
@@ -85,10 +102,7 @@
 
 
 
-> Stata连享会 &ensp;   [主页](https://www.lianxh.cn/news/46917f1076104.html)  || [视频](http://lianxh.duanshu.com) || [推文](https://www.zhihu.com/people/arlionn/) 
 
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会-草料主页-一码平川600.png)
-&emsp;
 
 
 
@@ -136,29 +150,5 @@
 >#### 关于我们
 
 - **Stata连享会** 由中山大学连玉君老师团队创办，定期分享实证分析经验。[直播间](http://lianxh.duanshu.com) 有很多视频课程，可以随时观看。
-- [连享会-主页](https://www.lianxh.cn) 和 [知乎专栏](https://www.zhihu.com/people/arlionn/)，300+ 推文，实证分析不再抓狂。
-- **公众号推文分类：** [计量专题](https://mp.weixin.qq.com/mp/homepage?__biz=MzAwMzk4ODUzOQ==&hid=4&sn=0c34b12da7762c5cabc5527fa5a1ff7b) | [分类推文](https://mp.weixin.qq.com/mp/homepage?__biz=MzAwMzk4ODUzOQ==&hid=2&sn=07017b31da626e2beab0332f5aa5f9e2) | [资源工具](https://mp.weixin.qq.com/mp/homepage?__biz=MzAwMzk4ODUzOQ==&hid=3&sn=10c2cf37e172289644f03a4c3b5bd506)。推文分成  **内生性** | **空间计量** | **时序面板** | **结果输出** | **交乘调节** 五类，主流方法介绍一目了然：DID, RDD, IV, GMM, FE, Probit 等。
-- **公众号关键词搜索/回复** 功能已经上线。大家可以在公众号左下角点击键盘图标，输入简要关键词，以便快速呈现历史推文，获取工具软件和数据下载。常见关键词：`课程, 直播, 视频, 客服, 模型设定, 研究设计, stata, plus, 绘图, 编程, 面板, 论文重现, 可视化, RDD, DID, PSM, 合成控制法` 等
-
----
-
-![连享会主页  lianxh.cn](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会跑起来就有风400.png "连享会主页：lianxh.cn")
-
-&emsp; 
-
-> 连享会小程序：扫一扫，看推文，看视频……
-
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会小程序二维码180.png)
-
-&emsp; 
-
-> 扫码加入连享会微信群，提问交流更方便
-
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/连享会-学习交流微信群001-150.jpg)
-
-> &#x270F;  连享会学习群-常见问题解答汇总：  
-> &#x2728;  <https://gitee.com/arlionn/WD>  
-
-
-
+- [连享会-主页](https://www.lianxh.cn) 和 [知乎专栏](https://www.zhihu.com/people/arlionn/)，400+ 推文，实证分析不再抓狂。
 
