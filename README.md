@@ -1,9 +1,3 @@
-
-&emsp;
-
-
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
-
 > [主页](https://www.lianxh.cn/news/46917f1076104.html)  || [视频](http://lianxh.duanshu.com) || [推文](https://www.lianxh.cn/news/d4d5cd7220bc7.html) || [知乎](https://www.zhihu.com/people/arlionn/) || [Bilibili 站](https://space.bilibili.com/546535876) 
 
 ---
@@ -14,7 +8,29 @@
 
 > [最新上线](https://gitee.com/arlionn/collections/278581) | [公开课](https://gitee.com/arlionn/collections/278579) | [小专题](https://gitee.com/arlionn/collections/1257)
 
-&emsp; 
+&emsp;
+
+> 推文集合：[PDF 合集](https://file.lianxh.cn/KC/lianxh_Blogs.pdf)
+
+- Stata：[教程](https://www.lianxh.cn/blogs/17.html) |  [资料](https://www.lianxh.cn/blogs/35.html) | [新命令](https://www.lianxh.cn/blogs/43.html) | [结果输出](https://www.lianxh.cn/blogs/22.html) | [绘图](https://www.lianxh.cn/blogs/24.html) | [数据处理](https://www.lianxh.cn/blogs/25.html) |  [程序](https://www.lianxh.cn/blogs/26.html)
+- [回归分析](https://www.lianxh.cn/blogs/32.html) |  [面板数据](https://www.lianxh.cn/blogs/20.html) | [交乘项-调节](https://www.lianxh.cn/blogs/21.html)  | [IV-GMM](https://www.lianxh.cn/blogs/38.html) | [Logit](https://www.lianxh.cn/blogs/27.html) | [空间计量](https://www.lianxh.cn/blogs/29.html) 
+- [因果推断](https://www.lianxh.cn/blogs/19.html) |  [DID](https://www.lianxh.cn/blogs/39.html) |  [RDD](https://www.lianxh.cn/blogs/40.html) |  [PSM](https://www.lianxh.cn/blogs/41.html) |  [合成控制](https://www.lianxh.cn/blogs/42.html) | [文本分析](https://www.lianxh.cn/blogs/36.html) | [机器学习](https://www.lianxh.cn/blogs/47.html)
+- [Markdown](https://www.lianxh.cn/blogs/30.html)  | [工具软件](https://www.lianxh.cn/blogs/23.html) |  [其它](https://www.lianxh.cn/blogs/33.html)
+
+> 热门推文
+- [稳健性检验！稳健性检验！](https://www.lianxh.cn/news/32ae13ec789a1.html)
+- [安慰剂检验！安慰剂检验！](https://www.lianxh.cn/news/cf8bd8363200d.html)
+- [Stata: 面板数据模型一文读懂](https://www.lianxh.cn/news/bf27906144b4e.html)
+- [Stata：聚类调整后的标准误-Cluster-SE](https://www.lianxh.cn/news/a7a8e613b2699.html)
+- [Stata：DID入门教程](https://www.lianxh.cn/news/3849f237b6d36.html)
+- [DID偏误问题：两时期DID的双重稳健估计量(上)-drdid](https://www.lianxh.cn/news/e6ef033e13c3e.html)
+- [DID偏误问题：多时期DID的双重稳健估计量(下)-csdid](https://www.lianxh.cn/news/762e878e7063b.html)
+- [Stata+R：一文读懂精确断点回归-RDD](https://www.lianxh.cn/news/96fb6b7e847e1.html)
+- [内生性！内生性！解决方法大集合](https://www.lianxh.cn/news/224e2b4e170e4.html)
+- [连享会：论文重现网站大全](https://www.lianxh.cn/news/e87e5976686d5.html)
+
+&emsp;
+
 
 > ### ${\color{blue}{\blacktriangleright}}$ [课程主页](https://www.lianxh.cn/news/46917f1076104.html)
 
