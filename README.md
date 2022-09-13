@@ -29,25 +29,6 @@
 - [内生性！内生性！解决方法大集合](https://www.lianxh.cn/news/224e2b4e170e4.html)
 - [连享会：论文重现网站大全](https://www.lianxh.cn/news/e87e5976686d5.html)
 
-&emsp;
-
-
-> ### ${\color{blue}{\blacktriangleright}}$ [课程主页](https://www.lianxh.cn/news/46917f1076104.html)
-
-&emsp;
-
-[![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/MayunKC-001.png)](https://www.lianxh.cn/news/46917f1076104.html)
-
-[![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/MayunKC-002.png)](https://www.lianxh.cn/news/46917f1076104.html)
-
-[![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/MayunKC-003.png)](https://www.lianxh.cn/news/46917f1076104.html)
-
-[![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/MayunKC-004.png)](https://www.lianxh.cn/news/46917f1076104.html)
-
-[![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/MayunKC-005.png)](https://www.lianxh.cn/news/46917f1076104.html)
-
-[![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/MayunKC-006.png)](https://www.lianxh.cn/news/46917f1076104.html)
-
 > ### ${\color{red}{\blacktriangleright}}$ [计量专题](https://gitee.com/arlionn/Course)
 
 ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
